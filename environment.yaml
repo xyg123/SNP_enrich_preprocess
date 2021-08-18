@@ -1,0 +1,20 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3
+  - snakemake
+  - pandas>=0.24
+  - pypy3.5
+  - plink
+  - scipy
+  - numpy
+  - pyarrow>=0.15
+  - requests>=2.18.0
+  - parallel
+  - pyspark
+  - httplib2  
+  - crcmod
+  - pybedtools
+  - pyBigWig
+  - matplotlib
