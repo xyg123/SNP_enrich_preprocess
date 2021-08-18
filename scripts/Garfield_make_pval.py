@@ -48,7 +48,7 @@ def Garfield_make_pval_with_LO(input_sumstats, trait, out_path, lo_from, lo_to):
 
     for i in range(1, 23):
         start_time=time.time()
-        Sumstats_bychr=Sumstats.loc[Sumstats['chrom'] == str(i)][["pos", "pval"]]
+        Sumstats_bychr=Sumstats.loc[Sumstats['chrom'] == "chr"+str(i)][["pos", "pval"]]
         Sumstats_bychr.to_csv(out_path+trait+"/chr"+str(i), sep="\t", index=False, header=None)
         print("finished chr"+str(i)+" in "+str(time.time()-start_time)+" seconds!")
     start_time=time.time()
