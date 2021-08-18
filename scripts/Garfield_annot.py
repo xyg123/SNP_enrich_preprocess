@@ -50,9 +50,9 @@ def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot_dir, input
         for line in f:
             line=line.rstrip().split(" ")
             bp=line[0];
-            input_chr="chr"+str(input_chr)
+            current_chr="chr"+str(input_chr)
             input_start=int(bp)-1
-            input_SNP=BedTool(str(input_chr)+" "+str(input_start)+" "+str(bp), from_string=True);
+            input_SNP=BedTool(str(current_chr)+" "+str(input_start)+" "+str(bp), from_string=True);
 
             annot_out=[]
 
@@ -66,7 +66,28 @@ def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot_dir, input
 
     print("finished chr"+str(input_chr)+" in "+str(time.time()-start_time)+" seconds!")
 
+def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot, input_chr):
+    start_time=time.time()
+    with open(input_SNP_path+"chr"+str(input_chr), 'r') as f:
+        for line in f:
+            line=line.rstrip().split(" ")
+            bp=line[0];
+            current_chr="chr"+str(input_chr)
+            input_start=int(bp)-1
+            input_SNP=BedTool(str(current_chr)+" "+str(input_start)+" "+str(bp), from_string=True);
 
+            
+
+            Annot_bed=BedTool(bed_for_annot)
+            SNP_intersect=input_SNP.intersect(Annot_bed)
+            if len(SNP_intersect)==0 :
+                annot_out=0
+            else:
+                annot_out=1
+            with open(out_path+"chr"+str(input_chr), 'a') as out_file:
+                out_file.write(str(bp)+" "+str(annot_out)+"\n")
+
+    print("finished chr"+str(input_chr)+" in "+str(time.time()-start_time)+" seconds!")
 
 #abc=Garfield_annot_UK10K_line("/Users/xg1/Downloads/garfield-data/maftssd/", 
 #    "/Users/xg1/Downloads/garfield-data/Comparison_annotations/",
@@ -76,7 +97,7 @@ def parse_args():
     parser=argparse.ArgumentParser()
     parser.add_argument('--Input_SNP_dir', metavar="<str>", type=str, required=True)
     parser.add_argument('--Input_SNP_chr', metavar="<str>", type=str, required=True)
-    parser.add_argument('--Input_bed_dir', metavar="<str>", type=str, required=True)
+    parser.add_argument('--Input_bed', metavar="<str>", type=str, required=True)
     parser.add_argument('--Output_dir', metavar="<str>", type=str, required=True)
     
     args = parser.parse_args()
@@ -84,7 +105,7 @@ def parse_args():
 
 def main():
     args=parse_args()
-    Garfield_annot_UK10K_line(args.Input_SNP_dir, args.Output_dir, args.Input_bed_dir, args.Input_SNP_chr)
+    Garfield_annot_UK10K_line(input_SNP_path=args.Input_SNP_dir, out_path=args.Output_dir, bed_for_annot=args.Input_bed, input_chr=args.Input_SNP_chr)
 
 if __name__ == '__main__':
 
