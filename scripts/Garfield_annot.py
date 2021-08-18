@@ -68,9 +68,9 @@ def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot_dir, input
 
 
 
-abc=Garfield_annot_UK10K_line("/Users/xg1/Downloads/garfield-data/maftssd/", 
-    "/Users/xg1/Downloads/garfield-data/Comparison_annotations/",
-    "/Users/xg1/Downloads/ldsc/Comparison_enhancers/")
+#abc=Garfield_annot_UK10K_line("/Users/xg1/Downloads/garfield-data/maftssd/", 
+#    "/Users/xg1/Downloads/garfield-data/Comparison_annotations/",
+ #   "/Users/xg1/Downloads/ldsc/Comparison_enhancers/")
 
 def parse_args():
     parser=argparse.ArgumentParser()
