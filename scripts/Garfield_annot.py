@@ -84,7 +84,7 @@ def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot, input_chr
                 annot_out=0
             else:
                 annot_out=1
-            with open(out_path+"chr"+str(input_chr), 'a') as out_file:
+            with open(out_path, 'a') as out_file:
                 out_file.write(str(bp)+" "+str(annot_out)+"\n")
 
     print("finished chr"+str(input_chr)+" in "+str(time.time()-start_time)+" seconds!")
