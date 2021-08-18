@@ -1,0 +1,917 @@
+id	GROUP	ct	SECONDARY	infoline	origin	perturb	lifestage	age	age.units	sex	type	COLOR	category	Project	Donor	name
+BSS00001	Cancer	22Rv1	Reproductive	PROSTATE EPITHELIAL CARCINOMA			unknown/mixed	unknown		unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO719HIY	22Rv1
+BSS00002	Cancer	22Rv1_treated_with_10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	Reproductive	PROSTATE EPITHELIAL CARCINOMA	22Rv1	10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	unknown/mixed	unknown		unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO719HIY	22Rv1 treated with 10 nM 17β-hydroxy-5α-androstan-3-one for 4 hours
+BSS00003	Cancer	8988T	Pancreas	PANCREAS ADENOCARCINOMA			adult	64	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ACP	8988T
+BSS00004	Cancer	A172	Brain	GLIOBLASTOMA			adult	53	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO934VEN	A172
+BSS00007	Cancer	A549	Lung	LUNG EPITHELIAL CARCINOMA			adult	58	year	male	cell line	#000000	Other	ENCODE 2012	ENCDO000AAZ	A549
+BSS00013	Cancer	A549_treated_with_0.02pct_ethanol_for_1_hour	Lung	LUNG EPITHELIAL CARCINOMA	A549	0.02pct_ethanol_for_1_hour	adult	58	year	male	cell line	#000000	Other	ENCODE 2012	ENCDO000AAZ	A549 treated with 0.02% ethanol for 1 hour
+BSS00015	Cancer	A549_treated_with_100_nM_dexamethasone_for_1_hour	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_1_hour	adult	58	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 1 hour
+BSS00016	Cancer	A549_treated_with_100_nM_dexamethasone_for_10_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_10_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 10 hours
+BSS00017	Cancer	A549_treated_with_100_nM_dexamethasone_for_10_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_10_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 10 minutes
+BSS00018	Cancer	A549_treated_with_100_nM_dexamethasone_for_12_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_12_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 12 hours
+BSS00019	Cancer	A549_treated_with_100_nM_dexamethasone_for_15_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_15_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 15 minutes
+BSS00020	Cancer	A549_treated_with_100_nM_dexamethasone_for_2_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_2_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 2 hours
+BSS00021	Cancer	A549_treated_with_100_nM_dexamethasone_for_20_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_20_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 20 minutes
+BSS00022	Cancer	A549_treated_with_100_nM_dexamethasone_for_25_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_25_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 25 minutes
+BSS00023	Cancer	A549_treated_with_100_nM_dexamethasone_for_3_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_3_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 3 hours
+BSS00024	Cancer	A549_treated_with_100_nM_dexamethasone_for_30_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_30_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 30 minutes
+BSS00025	Cancer	A549_treated_with_100_nM_dexamethasone_for_4_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_4_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 4 hours
+BSS00026	Cancer	A549_treated_with_100_nM_dexamethasone_for_5_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_5_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 5 hours
+BSS00027	Cancer	A549_treated_with_100_nM_dexamethasone_for_5_minutes	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_5_minutes	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 5 minutes
+BSS00028	Cancer	A549_treated_with_100_nM_dexamethasone_for_6_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_6_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 6 hours
+BSS00029	Cancer	A549_treated_with_100_nM_dexamethasone_for_7_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_7_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 7 hours
+BSS00030	Cancer	A549_treated_with_100_nM_dexamethasone_for_8_hours	Lung	LUNG EPITHELIAL CARCINOMA	A549	100_nM_dexamethasone_for_8_hours	adult	58	year	male	cell line	#000000	Other	GGR	ENCDO000AAZ	A549 treated with 100 nM dexamethasone for 8 hours
+BSS00035	Cancer	A673	Muscle	MUSCLE EWING SARCOMA			child	15	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO027VXA	A673
+BSS00036	Cancer	ACC112	Other	ADENOID CYSTIC CARCINOMA			adult	70	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO085ZKK	ACC112
+BSS00037	Cancer	ACHN	Kidney	RENAL CELL ADENOCARCINOMA			adult	22	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO627NDO	ACHN
+BSS00038	Adipose	adipocyte		ADIPOCYTE			unknown/mixed	unknown	unknown	unknown/mixed	in vitro differentiated cells	#AF5B39	Tissue	ENCODE (New)	ENCDO029QEV	adipocyte
+BSS00039	Mesench	adipocyte_originated_from_mesenchymal_stem_cell	Adipose	ADIPOCYTE FROM MSC			adult	41,59	year	female	in vitro differentiated cells	#B65C73	Tissue	Roadmap 2015	ENCDO477HWZ,ENCDO535TMW	adipocyte originated from mesenchymal stem cell
+BSS00043	Adipose	adipose_tissue_male_adult_(34_years)		ADIPOSE TISSUE			adult	34	year	male	tissue	#AF5B39	Tissue	Roadmap (New)	ENCDO058AAA	adipose tissue male adult (34 years)
+BSS00045	Endocrine	adrenal_gland_embryo_(96_days)		ADRENAL GLAND			embryonic	96	day	unknown/mixed	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO226BUZ	adrenal gland embryo (96 days)
+BSS00046	Endocrine	adrenal_gland_female_adult_(30_years)		ADRENAL GLAND			adult	30	year	female	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO424HVB	adrenal gland female adult (30 years)
+BSS00047	Endocrine	adrenal_gland_female_adult_(51_year)		ADRENAL GLAND			adult	51	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO271OUW	adrenal gland female adult (51 year)
+BSS00048	Endocrine	adrenal_gland_female_adult_(53_years)		ADRENAL GLAND			adult	53	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO793LXB	adrenal gland female adult (53 years)
+BSS00050	Endocrine	adrenal_gland_female_embryo_(108_days)		ADRENAL GLAND			embryonic	108	day	female	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO012PVK	adrenal gland female embryo (108 days)
+BSS00051	Endocrine	adrenal_gland_female_embryo_(113_days)		ADRENAL GLAND			embryonic	113	day	female	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO676JUB	adrenal gland female embryo (113 days)
+BSS00052	Endocrine	adrenal_gland_female_embryo_(85_days)		ADRENAL GLAND			embryonic	85	day	female	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO527XLA	adrenal gland female embryo (85 days)
+BSS00054	Endocrine	adrenal_gland_male_adult_(34_years)		ADRENAL GLAND			adult	34	year	male	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO058AAA	adrenal gland male adult (34 years)
+BSS00055	Endocrine	adrenal_gland_male_adult_(37_years)		ADRENAL GLAND			adult	37	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO845WKR	adrenal gland male adult (37 years)
+BSS00056	Endocrine	adrenal_gland_male_adult_(54_years)		ADRENAL GLAND			adult	54	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO451RUA	adrenal gland male adult (54 years)
+BSS00057	Endocrine	adrenal_gland_male_embryo_(101_day)		ADRENAL GLAND			embryonic	101	day	male	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO148CGW	adrenal gland male embryo (101 day)
+BSS00058	Endocrine	adrenal_gland_male_embryo_(108_days)		ADRENAL GLAND			embryonic	108	day	male	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO132ASK	adrenal gland male embryo (108 days)
+BSS00059	Endocrine	adrenal_gland_male_embryo_(85_days)		ADRENAL GLAND			embryonic	85	day	male	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO355UBP	adrenal gland male embryo (85 days)
+BSS00060	Endocrine	adrenal_gland_male_embryo_(97_days)		ADRENAL GLAND			embryonic	97	day	male	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO826VAK	adrenal gland male embryo (97 days)
+BSS00061	Stromal	AG04449		SKIN FIBROBLAST			embryonic	12	week	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO001AAA	AG04449
+BSS00062	Stromal	AG04450	Lung	LUNG FIBROBLAST			embryonic	12	week	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO001AAA	AG04450
+BSS00063	Stromal	AG08395		SKIN FIBROBLAST			adult	85	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO016AAA	AG08395
+BSS00064	Stromal	AG08396	Lung	LUNG FIBROBLAST			adult	85	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO016AAA	AG08396
+BSS00066	Stromal	AG09309		SKIN FIBROBLAST			adult	21	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO002AAA	AG09309
+BSS00067	Stromal	AG09319	Other	GINGIVAL FIBROBLAST			adult	24	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO373ZSZ	AG09319
+BSS00068	Stromal	AG10803		SKIN FIBROBLAST			adult	22	year	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO442SWC	AG10803
+BSS00069	Stromal	AG20443		SKIN FIBROBLAST			adult	71	year	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO184AAA	AG20443
+BSS00071	Brain	Ammon_s_horn_male_adult_(84_years)		AMMONS HORN			adult	84	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB	Ammon's horn male adult (84 years)
+BSS00074	Placenta & EEM	amnion_male_embryo_(16_weeks)		AMNION			embryonic	16	week	male	tissue	#E10000	Tissue	Roadmap 2015	ENCDO150YZC	amnion male embryo (16 weeks)
+BSS00075	Epithelial	amniotic_epithelial_cell	Placenta & EEM	AMNION EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO102AAA	amniotic epithelial cell
+BSS00076	Placenta & EEM	amniotic_stem_cell		AMNION STEM CELL			embryonic	15	week	male	primary cell	#E10000	Tissue	ENCODE (New)	ENCDO942PSS	amniotic stem cell
+BSS00077	Brain	angular_gyrus_female_adult_(75_years)		ANGULAR GYRUS			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	angular gyrus female adult (75 years)
+BSS00078	Brain	angular_gyrus_male_adult_(81_year)		ANGULAR GYRUS			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	angular gyrus male adult (81 year)
+BSS00079	Heart	aorta_female_adult_(30_years)		AORTA			adult	30	year	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO424HVB	aorta female adult (30 years)
+BSS00080	Heart	aorta_male_adult_(34_years)		AORTA			adult	34	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO058AAA	aorta male adult (34 years)
+BSS00084	Bone	arm_bone_male_embryo_(81_day)		BONE ARM			embryonic	81	day	male	tissue	#6FB7EB	Tissue	ENCODE (New)	ENCDO184UZW	arm bone male embryo (81 day)
+BSS00087	Heart	ascending_aorta_female_adult_(51_year)		ASCENDING AORTA			adult	51	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO271OUW	ascending aorta female adult (51 year)
+BSS00088	Heart	ascending_aorta_female_adult_(53_years)		ASCENDING AORTA			adult	53	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO793LXB	ascending aorta female adult (53 years)
+BSS00089	Brain	astrocyte		ASTROCYTE			unknown/mixed	unknown		unknown/mixed	primary cell	#C5912B	Neural	ENCODE 2012	ENCDO916IIE	astrocyte
+BSS00090	Brain	astrocyte_of_the_cerebellum		ASTROCYTE CEREBELLUM			unknown/mixed	unknown		unknown/mixed	primary cell	#C5912B	Neural	ENCODE (New)	ENCDO227AAA	astrocyte of the cerebellum
+BSS00091	Brain	astrocyte_of_the_hippocampus		ASTROCYTE HIPPOCAMPUS			unknown/mixed	unknown		unknown/mixed	primary cell	#C5912B	Neural	ENCODE (New)	ENCDO223AAA	astrocyte of the hippocampus
+BSS00092	Brain	astrocyte_of_the_spinal_cord		ASTROCYTE SPINAL CORD			unknown/mixed	unknown		unknown/mixed	primary cell	#C5912B	Neural	ENCODE (New)	ENCDO224AAA	astrocyte of the spinal cord
+BSS00093	HSC & B-cell	B_cell		B CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#55A354	Immune	Roadmap 2015	ENCDO135ZPY,ENCDO185JIR,ENCDO363GCG,ENCDO375CKP,ENCDO954BOU	B cell
+BSS00095	HSC & B-cell	B_cell_female_adult_(27_years)		B CELL			adult	27	year	female	primary cell	#55A354	Immune	ENCODE (New)	ENCDO115AAA	B cell female adult (27 years)
+BSS00096	HSC & B-cell	B_cell_female_adult_(27_years)_and_female_adult_(43_years)		B CELL			adult	27,43	year	female	primary cell	#55A354	Immune	ENCODE (New)	ENCDO114AAA,ENCDO115AAA	B cell female adult (27 years) and female adult (43 years)
+BSS00097	HSC & B-cell	B_cell_female_adult_(34_years)		B CELL			adult	34	year	female	primary cell	#55A354	Immune	Roadmap (New)	ENCDO579CCQ	B cell female adult (34 years)
+BSS00098	HSC & B-cell	B_cell_female_adult_(43_years)		B CELL			adult	43	year	female	primary cell	#55A354	Immune	ENCODE (New)	ENCDO114AAA	B cell female adult (43 years)
+BSS00100	HSC & B-cell	B_cell_male_adult_(21_year)		B CELL			adult	21	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO190HXC	B cell male adult (21 year)
+BSS00101	HSC & B-cell	B_cell_male_adult_(37_years)		B CELL			adult	37	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO028NGF	B cell male adult (37 years)
+BSS00102	Cancer	BE2C	Brain	NEUROBLASTOMA			child	2	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACQ	BE2C
+BSS00112	ES-deriv	bipolar_neuron_originated_from_GM23338_treated_with_0.5_mg_mL_doxycycline_hyclate_for_4_days	Brain	BIPOLAR NEURON DERIV	bipolar_neuron_originated_from_GM23338	0.5_mg_mL_doxycycline_hyclate_for_4_days	adult	53	year	male	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO336AAA	bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days
+BSS00113	Stromal	BJ		SKIN FIBROBLAST			newborn	unknown		male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAG	BJ
+BSS00121	Pancreas	body_of_pancreas_female_adult_(51_year)		BODY OF PANCREAS			adult	51	year	female	tissue	#87A3E1	Tissue	ENCODE (New)	ENCDO271OUW	body of pancreas female adult (51 year)
+BSS00122	Pancreas	body_of_pancreas_female_adult_(53_years)		BODY OF PANCREAS			adult	53	year	female	tissue	#87A3E1	Tissue	ENCODE (New)	ENCDO793LXB	body of pancreas female adult (53 years)
+BSS00123	Pancreas	body_of_pancreas_male_adult_(37_years)		BODY OF PANCREAS			adult	37	year	male	tissue	#87A3E1	Tissue	ENCODE (New)	ENCDO845WKR	body of pancreas male adult (37 years)
+BSS00124	Pancreas	body_of_pancreas_male_adult_(54_years)		BODY OF PANCREAS			adult	54	year	male	tissue	#87A3E1	Tissue	ENCODE (New)	ENCDO451RUA	body of pancreas male adult (54 years)
+BSS00125	Brain	brain_embryo_(112_days)		BRAIN			embryonic	112	day	unknown/mixed	tissue	#C5912B	Neural	Roadmap (New)	ENCDO307OVZ	brain embryo (112 days)
+BSS00126	Brain	brain_embryo_(56_days)_and_male_embryo_(58_days)		BRAIN			embryonic	58,56	day	unknown/mixed	tissue	#C5912B	Neural	ENCODE (New)	ENCDO652XOU,ENCDO708OLI	brain embryo (56 days) and male embryo (58 days)
+BSS00127	Brain	brain_embryo_(80_days)		BRAIN			embryonic	80	day	unknown/mixed	tissue	#C5912B	Neural	ENCODE (New)	ENCDO662IIE	brain embryo (80 days)
+BSS00129	Brain	brain_female_embryo_(105_days)		BRAIN			embryonic	105	day	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO863KZW	brain female embryo (105 days)
+BSS00130	Brain	brain_female_embryo_(109_days)		BRAIN			embryonic	109	day	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO879HSH	brain female embryo (109 days)
+BSS00131	Brain	brain_female_embryo_(117_days)		BRAIN			embryonic	117	day	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO642MOA	brain female embryo (117 days)
+BSS00132	Brain	brain_female_embryo_(120_days)		BRAIN			embryonic	120	day	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO670CKN	brain female embryo (120 days)
+BSS00133	Brain	brain_female_embryo_(142_days)		BRAIN			embryonic	142	day	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO175TGB	brain female embryo (142 days)
+BSS00134	Brain	brain_female_embryo_(17_weeks)		BRAIN			embryonic	17	week	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO030VWZ,ENCDO981EWY	brain female embryo (17 weeks)
+BSS00135	Brain	brain_female_embryo_(85_days)		BRAIN			embryonic	85	day	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO316SVQ	brain female embryo (85 days)
+BSS00136	Brain	brain_female_embryo_(96_days)		BRAIN			embryonic	96	day	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO370HUJ	brain female embryo (96 days)
+BSS00138	Brain	brain_male_embryo_(101_day)		BRAIN			embryonic	101	day	male	tissue	#C5912B	Neural	Roadmap (New)	ENCDO148CGW	brain male embryo (101 day)
+BSS00139	Brain	brain_male_embryo_(104_days)		BRAIN			embryonic	104	day	male	tissue	#C5912B	Neural	Roadmap (New)	ENCDO024JHT	brain male embryo (104 days)
+BSS00140	Brain	brain_male_embryo_(105_days)		BRAIN			embryonic	105	day	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO908MUY	brain male embryo (105 days)
+BSS00141	Brain	brain_male_embryo_(122_days)		BRAIN			embryonic	122	day	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO762SKK	brain male embryo (122 days)
+BSS00142	Brain	brain_male_embryo_(72_days)_and_male_embryo_(76_days)		BRAIN			embryonic	72,76	day	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO300THQ,ENCDO647EYG	brain male embryo (72 days) and male embryo (76 days)
+BSS00143	Endothelial	brain_microvascular_endothelial_cell	Brain	BRAIN MICROVASCULAR ENDOTHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO227AAA	brain microvascular endothelial cell
+BSS00144	Stromal	brain_pericyte	Brain	PERICYTE			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO228AAA	brain pericyte
+BSS00145	Other	breast_epithelium_female_adult_(51_year)		BREAST EPITHELIUM			adult	51	year	female	tissue	#999999	Other	ENCODE (New)	ENCDO271OUW	breast epithelium female adult (51 year)
+BSS00146	Other	breast_epithelium_female_adult_(53_years)		BREAST EPITHELIUM			adult	53	year	female	tissue	#999999	Other	ENCODE (New)	ENCDO793LXB	breast epithelium female adult (53 years)
+BSS00148	Other	breast_epithelium_male_adult_(54_years)		BREAST EPITHELIUM			adult	54	year	male	tissue	#999999	Other	ENCODE (New)	ENCDO451RUA	breast epithelium male adult (54 years)
+BSS00150	Epithelial	bronchial_epithelial_cell	Lung	BRONCHIAL EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO106AAA	bronchial epithelial cell
+BSS00153	Epithelial	bronchial_epithelial_cell_female_treated_with_retinoic_acid	Lung	BRONCHIAL EPITHELIAL CELL	bronchial_epithelial_cell_female	retinoic_acid	unknown/mixed	unknown		female	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO099AAA	bronchial epithelial cell female treated with retinoic acid
+BSS00157	Cancer	C4-2B	Reproductive	PROSTATE CANCER			adult	50	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACX	C4-2B
+BSS00159	Cancer	Caco-2	Digestive	COLORECTAL ADENOCARCINOMA			adult	72	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACR	Caco-2
+BSS00160	Cancer	Caki2	Kidney	KIDNEY CLEAR CELL CARCINOMA			adult	69	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO140IFG	Caki2
+BSS00166	Stromal	cardiac_fibroblast	Heart	CARDIAC FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO095AAA	cardiac fibroblast
+BSS00167	Stromal	cardiac_fibroblast_female	Heart	CARDIAC FIBROBLAST			adult	unknown		female	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO230AAA	cardiac fibroblast female
+BSS00168	Stromal	cardiac_fibroblast_female_embryo_(94_days)_and_female_embryo_(98_days)	Heart	CARDIAC FIBROBLAST			embryonic	94,98	day	female	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO298NZG,ENCDO754GEB	cardiac fibroblast female embryo (94 days) and female embryo (98 days)
+BSS00169	ES-deriv	cardiac_mesoderm_originated_from_H7-hESC	Heart	CARDIAC MESODERM DERIV			embryonic	unknown		female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO221AAA	cardiac mesoderm originated from H7-hESC
+BSS00170	Muscle	cardiac_muscle_cell		CARDIAC MYOCYTE			unknown/mixed	unknown		unknown/mixed	primary cell	#C2655D	Tissue	ENCODE (New)	ENCDO330AAA	cardiac muscle cell
+BSS00171	ES-deriv	cardiac_muscle_cell_originated_from_RUES2	Heart	CARDIAC MUSCLE DERIV			embryonic	unknown		unknown/mixed	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO924HBJ	cardiac muscle cell originated from RUES2
+BSS00173	Brain	caudate_nucleus_female_adult_(75_years)		CAUDATE NUCLEUS			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	caudate nucleus female adult (75 years)
+BSS00174	Brain	caudate_nucleus_male_adult_(78_years)		CAUDATE NUCLEUS			adult	78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO317XRR	caudate nucleus male adult (78 years)
+BSS00175	Brain	caudate_nucleus_male_adult_(81_year)		CAUDATE NUCLEUS			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	caudate nucleus male adult (81 year)
+BSS00178	HSC & B-cell	CD14-positive_monocyte_female		CD14 MONOCYTE			unknown/mixed	unknown		female	primary cell	#55A354	Immune	ENCODE 2012	ENCDO265AAA,ENCDO266AAA	CD14-positive monocyte female
+BSS00179	HSC & B-cell	CD14-positive_monocyte_female_adult_(34_years)		CD14 MONOCYTE			adult	34	year	female	primary cell	#55A354	Immune	Roadmap 2015	ENCDO579CCQ	CD14-positive monocyte female adult (34 years)
+BSS00180	HSC & B-cell	CD14-positive_monocyte_male_adult_(21_year)		CD14 MONOCYTE			adult	21	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO190HXC	CD14-positive monocyte male adult (21 year)
+BSS00181	HSC & B-cell	CD14-positive_monocyte_male_adult_(37_years)		CD14 MONOCYTE			adult	37	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO028NGF	CD14-positive monocyte male adult (37 years)
+BSS00182	HSC & B-cell	CD1c-positive_myeloid_dendritic_cell		CD1C MYELOID DENDRITIC CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#55A354	Immune	ENCODE (New)	ENCDO820BXZ	CD1c-positive myeloid dendritic cell
+BSS00183	Blood & T-cell	CD4-positive,_alpha-beta_memory_T_cell		CD4 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO688UWB,ENCDO779YRY,ENCDO922CEJ	CD4-positive, alpha-beta memory T cell
+BSS00185	Blood & T-cell	CD4-positive,_alpha-beta_memory_T_cell_originated_from_blood_cell		CD4 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO966YSM	CD4-positive, alpha-beta memory T cell originated from blood cell
+BSS00186	Blood & T-cell	CD4-positive,_alpha-beta_T_cell		CD4 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO779YRY	CD4-positive, alpha-beta T cell
+BSS00188	Blood & T-cell	CD4-positive,_alpha-beta_T_cell_female_adult_(33_years)		CD4 T CELL			adult	33	year	female	primary cell	#678C69	Immune	Roadmap (New)	ENCDO412QUR	CD4-positive, alpha-beta T cell female adult (33 years)
+BSS00189	Blood & T-cell	CD4-positive,_alpha-beta_T_cell_male_adult_(21_year)		CD4 T CELL			adult	21	year	male	primary cell	#678C69	Immune	Roadmap (New)	ENCDO190HXC	CD4-positive, alpha-beta T cell male adult (21 year)
+BSS00190	Blood & T-cell	CD4-positive,_alpha-beta_T_cell_male_adult_(37_years)		CD4 T CELL			adult	37	year	male	primary cell	#678C69	Immune	Roadmap (New)	ENCDO028NGF	CD4-positive, alpha-beta T cell male adult (37 years)
+BSS00191	Blood & T-cell	CD4-positive,_alpha-beta_T_cell_treated_with_phorbol_13-acetate_12-myristate_,_ionomycin		CD4 T CELL	CD4-positive,_alpha-beta_T_cell	phorbol_13-acetate_12-myristate_,_ionomycin	unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO779YRY	CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin
+BSS00192	Blood & T-cell	CD4-positive,_CD25-positive,_alpha-beta_regulatory_T_cell		CD4 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO779YRY	CD4-positive, CD25-positive, alpha-beta regulatory T cell
+BSS00193	Blood & T-cell	CD8-positive,_alpha-beta_memory_T_cell		CD8 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO688UWB,ENCDO922CEJ	CD8-positive, alpha-beta memory T cell
+BSS00194	Blood & T-cell	CD8-positive,_alpha-beta_T_cell		CD8 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO688UWB,ENCDO922CEJ	CD8-positive, alpha-beta T cell
+BSS00195	Blood & T-cell	CD8-positive,_alpha-beta_T_cell_female_adult_(33_years)		CD8 T CELL			adult	33	year	female	primary cell	#678C69	Immune	Roadmap (New)	ENCDO412QUR	CD8-positive, alpha-beta T cell female adult (33 years)
+BSS00196	Blood & T-cell	CD8-positive,_alpha-beta_T_cell_female_adult_(34_years)		CD8 T CELL			adult	34	year	female	primary cell	#678C69	Immune	Roadmap (New)	ENCDO579CCQ	CD8-positive, alpha-beta T cell female adult (34 years)
+BSS00197	Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(21_year)		CD8 T CELL			adult	21	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO123NFT,ENCDO190HXC	CD8-positive, alpha-beta T cell male adult (21 year)
+BSS00198	Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(28_years)		CD8 T CELL			adult	28	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO273TST	CD8-positive, alpha-beta T cell male adult (28 years)
+BSS00200	Blood & T-cell	CD8-positive,_alpha-beta_T_cell_male_adult_(37_years)		CD8 T CELL			adult	37	year	male	primary cell	#678C69	Immune	Roadmap (New)	ENCDO028NGF	CD8-positive, alpha-beta T cell male adult (37 years)
+BSS00201	Brain	cerebellar_cortex_male_adult_(78_years)_and_male_adult_(84_years)		CEREBELLAR CORTEX			adult	84,78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB,ENCDO317XRR	cerebellar cortex male adult (78 years) and male adult (84 years)
+BSS00205	Brain	cerebellum_male_adult_(20_years)		CEREBELLUM			adult	20	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO377OGA	cerebellum male adult (20 years)
+BSS00206	Brain	cerebellum_male_adult_(27_years)_and_male_adult_(35_years)		CEREBELLUM			adult	35,27	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO006AAA,ENCDO007AAA	cerebellum male adult (27 years) and male adult (35 years)
+BSS00207	Brain	cerebellum_male_adult_(53_years)		CEREBELLUM			adult	53	year	male	tissue	#C5912B	Neural	Roadmap (New)	ENCDO329NER	cerebellum male adult (53 years)
+BSS00209	Placenta & EEM	chorion		CHORION			unknown/mixed	unknown		unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO180AAA	chorion
+BSS00211	Placenta & EEM	chorion_female_embryo_(40_weeks)		CHORION			embryonic	40	week	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO651ROT	chorion female embryo (40 weeks)
+BSS00212	Placenta & EEM	chorion_male_embryo_(16_weeks)		CHORION			embryonic	16	week	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO150YZC	chorion male embryo (16 weeks)
+BSS00214	Placenta & EEM	chorionic_villus_embryo_(16_weeks)		CHORIONIC VILLUS			embryonic	16	week	unknown/mixed	tissue	#E10000	Tissue	Roadmap (New)	ENCDO918HJM	chorionic villus embryo (16 weeks)
+BSS00215	Placenta & EEM	chorionic_villus_female_embryo_(40_weeks)		CHORIONIC VILLUS			embryonic	40	week	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO651ROT	chorionic villus female embryo (40 weeks)
+BSS00216	Placenta & EEM	chorionic_villus_male_embryo_(16_weeks)		CHORIONIC VILLUS			embryonic	16	week	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO150YZC	chorionic villus male embryo (16 weeks)
+BSS00217	Placenta & EEM	chorionic_villus_male_embryo_(38_weeks)		CHORIONIC VILLUS			embryonic	38	week	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO974LFM	chorionic villus male embryo (38 weeks)
+BSS00218	Epithelial	choroid_plexus_epithelial_cell	Brain	CHOROID PLEXUS EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO097AAA	choroid plexus epithelial cell
+BSS00219	Brain	cingulate_gyrus_female_adult_(75_years)		CINGULATE GYRUS			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	cingulate gyrus female adult (75 years)
+BSS00220	Brain	cingulate_gyrus_male_adult_(81_year)		CINGULATE GYRUS			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	cingulate gyrus male adult (81 year)
+BSS00221	Cancer	CMK	HSC & B-cell	MYELOGENOUS LEUKEMIA			child	10	month	male	cell line	#000000	Other	ENCODE (New)	ENCDO000AAH	CMK
+BSS00222	Cancer	COLO829	Epithelial	MELANOMA			adult	45	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACS	COLO829
+BSS00223	Epithelial	colon_epithelial_cell_line	Digestive	COLON EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO336HXJ	colon epithelial cell line
+BSS00227	Digestive	colonic_mucosa_female_adult_(56_years)		COLON MUCOSA			adult	56	year	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO438RUL	colonic mucosa female adult (56 years)
+BSS00228	Digestive	colonic_mucosa_female_adult_(73_years)		COLON MUCOSA			adult	73	year	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO159WAM	colonic mucosa female adult (73 years)
+BSS00229	HSC & B-cell	common_myeloid_progenitor,_CD34-positive		CD34 CMP			unknown/mixed	unknown		unknown/mixed	primary cell	#55A354	Immune	Roadmap 2015	ENCDO026AEL,ENCDO208QJJ,ENCDO233GAL,ENCDO266GKW,ENCDO387DVY,ENCDO908ZKJ,ENCDO930ZLO	common myeloid progenitor, CD34-positive
+BSS00230	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female		CD34 CMP			unknown/mixed	unknown		female	primary cell	#55A354	Immune	Roadmap (New)	ENCDO950XTR	common myeloid progenitor, CD34-positive female
+BSS00231	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(27_years)		CD34 CMP			adult	27	year	female	primary cell	#55A354	Immune	Roadmap 2015	ENCDO410ZKA,ENCDO707VTH	common myeloid progenitor, CD34-positive female adult (27 years)
+BSS00232	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(33_years)		CD34 CMP			adult	33	year	female	primary cell	#55A354	Immune	Roadmap 2015	ENCDO412QUR	common myeloid progenitor, CD34-positive female adult (33 years)
+BSS00233	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_female_adult_(50_years)		CD34 CMP			adult	50	year	female	primary cell	#55A354	Immune	Roadmap (New)	ENCDO957RHA	common myeloid progenitor, CD34-positive female adult (50 years)
+BSS00234	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male		CD34 CMP			unknown/mixed	unknown		male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO802OIW	common myeloid progenitor, CD34-positive male
+BSS00235	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult		CD34 CMP			adult	unknown		male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO642MQK	common myeloid progenitor, CD34-positive male adult
+BSS00236	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(23_years)		CD34 CMP			adult	23	year	male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO015OUZ	common myeloid progenitor, CD34-positive male adult (23 years)
+BSS00237	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(36_years)		CD34 CMP			adult	36	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO441UHQ	common myeloid progenitor, CD34-positive male adult (36 years)
+BSS00238	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(37_years)		CD34 CMP			adult	37	year	male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO028NGF	common myeloid progenitor, CD34-positive male adult (37 years)
+BSS00239	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(42_years)		CD34 CMP			adult	42	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO459DTQ	common myeloid progenitor, CD34-positive male adult (42 years)
+BSS00240	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(43_years)		CD34 CMP			adult	43	year	male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO147FTI	common myeloid progenitor, CD34-positive male adult (43 years)
+BSS00241	HSC & B-cell	common_myeloid_progenitor,_CD34-positive_male_adult_(49_years)		CD34 CMP			adult	49	year	male	primary cell	#55A354	Immune	Roadmap (New)	ENCDO898ATX	common myeloid progenitor, CD34-positive male adult (49 years)
+BSS00242	Heart	coronary_artery_female_adult_(51_year)		CORONARY ARTERY			adult	51	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO271OUW	coronary artery female adult (51 year)
+BSS00243	Heart	coronary_artery_female_adult_(53_years)		CORONARY ARTERY			adult	53	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO793LXB	coronary artery female adult (53 years)
+BSS00244	iPSC	CWRU1_male		iPSC			unknown/mixed	unknown		male	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO298AAA	CWRU1 male
+BSS00246	Cancer	Daoy	Brain	DESMOPLASTIC MEDULLOBLASTOMA			child	4	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO735HIP	Daoy
+BSS00250	Mesench	dedifferentiated_amniotic_fluid_mesenchymal_stem_cell		AMNIOTIC FLUID FROM MSC			embryonic	15	week	male	primary cell	#B65C73	Tissue	ENCODE (New)	ENCDO942PSS	dedifferentiated amniotic fluid mesenchymal stem cell
+BSS00258	Endothelial	dermis_blood_vessel_endothelial_cell_female_adult		DERMIS BLOOD VESSEL ENDOTHELIAL CELL			adult	unknown		female	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO239AAA,ENCDO240AAA	dermis blood vessel endothelial cell female adult
+BSS00260	Endothelial	dermis_blood_vessel_endothelial_cell_male_newborn		DERMIS BLOOD VESSEL ENDOTHELIAL CELL			newborn	unknown		male	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO241AAA,ENCDO244AAA	dermis blood vessel endothelial cell male newborn
+BSS00262	Endothelial	dermis_microvascular_lymphatic_vessel_endothelial_cell_female		DERMIS LYMPHATIC VESSEL ENDOTHELIAL CELL			unknown/mixed	unknown		female	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO242AAA	dermis microvascular lymphatic vessel endothelial cell female
+BSS00264	Endothelial	dermis_microvascular_lymphatic_vessel_endothelial_cell_male		DERMIS LYMPHATIC VESSEL ENDOTHELIAL CELL			unknown/mixed	unknown		male	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO243AAA	dermis microvascular lymphatic vessel endothelial cell male
+BSS00267	Cancer	DND-41	Blood & T-cell	ACUTE LYMPHOBLASTIC LEUKEMIA			child	13	year	male	cell line	#000000	Other	ENCODE 2012	ENCDO183AAA	DND-41
+BSS00268	Cancer	DOHH2	HSC & B-cell	B CELL LYMPHOMA			adult	60	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO352AAA	DOHH2
+BSS00270	Digestive	duodenal_mucosa_male_adult_(59_years)		DUODENUM MUCOSA			adult	59	year	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO874DHL	duodenal mucosa male adult (59 years)
+BSS00271	Digestive	duodenal_mucosa_male_adult_(76_years)		DUODENUM MUCOSA			adult	76	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO889KES	duodenal mucosa male adult (76 years)
+BSS00272	ES-deriv	ecto_neural_progenitor_cell_originated_from_H9	Brain	NEURAL PROGENITOR DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO222AAA	ecto neural progenitor cell originated from H9
+BSS00273	ES-deriv	ectodermal_cell_originated_from_embryonic_stem_cell		ECTODERMAL DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO424FTP	ectodermal cell originated from embryonic stem cell
+BSS00274	Blood & T-cell	effector_memory_CD4-positive,_alpha-beta_T_cell		CD4 T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO779YRY	effector memory CD4-positive, alpha-beta T cell
+BSS00275	Stromal	EH		SKIN FIBROBLAST			newborn	unknown		male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAG	EH
+BSS00276	Stromal	EL		SKIN FIBROBLAST			newborn	unknown		male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAG	EL
+BSS00277	ESC	ELF-1		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	ENCODE (New)	ENCDO524DZC	ELF-1
+BSS00278	Stromal	ELR		SKIN FIBROBLAST			newborn	unknown		male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAG	ELR
+BSS00279	Mesench	embryonic_facial_prominence_embryo_(53_days)_and_embryo_(58_days)		EMBRYONIC FACIAL PROMINENCE			embryonic	58,53	day	unknown/mixed	tissue	#B65C73	Tissue	ENCODE (New)	ENCDO234CBV,ENCDO870GPO	embryonic facial prominence embryo (53 days) and embryo (58 days)
+BSS00281	Endocrine	endocrine_pancreas_adult_(59_years)	Pancreas	ENDOCRINE PANCREAS			adult	59	year	unknown/mixed	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO267ZBN	endocrine pancreas adult (59 years)
+BSS00282	Endocrine	endocrine_pancreas_male	Pancreas	ENDOCRINE PANCREAS			unknown/mixed	unknown		male	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO633LOT	endocrine pancreas male
+BSS00283	Endocrine	endocrine_pancreas_male_adult_(45_years)	Pancreas	ENDOCRINE PANCREAS			adult	45	year	male	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO543FPW	endocrine pancreas male adult (45 years)
+BSS00284	Endocrine	endocrine_pancreas_male_adult_(46_years)	Pancreas	ENDOCRINE PANCREAS			adult	46	year	male	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO623LNR	endocrine pancreas male adult (46 years)
+BSS00285	ES-deriv	endodermal_cell		ENDODERMAL CELL			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO222AAA	endodermal cell
+BSS00287	ES-deriv	endodermal_cell_originated_from_HUES64		ENDODERMAL DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO424FTP	endodermal cell originated from HUES64
+BSS00296	Endothelial	endothelial_cell_of_umbilical_vein_male_newborn	Placenta & EEM	UMBILICAL VEIN ENDOTHELIAL CELL			newborn	unknown		male	primary cell	#FFCA0C	Primary Cell	ENCODE 2012	ENCDO342AAA,ENCDO551FXN	endothelial cell of umbilical vein male newborn
+BSS00298	Endothelial	endothelial_cell_of_umbilical_vein_newborn	Placenta & EEM	UMBILICAL VEIN ENDOTHELIAL CELL			newborn	unknown		unknown/mixed	primary cell	#FFCA0C	Primary Cell	ENCODE 2012	ENCDO000AAS	endothelial cell of umbilical vein newborn
+BSS00304	Other	epidermal_melanocyte		EPIDERMAL MELANOCYTE			unknown/mixed	unknown		unknown/mixed	primary cell	#999999	Other	ENCODE (New)	ENCDO264AAA	epidermal melanocyte
+BSS00307	Epithelial	epithelial_cell_of_esophagus	Digestive	ESOPHAGUS EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO104AAA	epithelial cell of esophagus
+BSS00308	Epithelial	epithelial_cell_of_prostate	Reproductive	PROSTATE EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO101AAA	epithelial cell of prostate
+BSS00309	Epithelial	epithelial_cell_of_prostate_male	Reproductive	PROSTATE EPITHELIAL CELL			unknown/mixed	unknown		male	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO569WSJ	epithelial cell of prostate male
+BSS00310	Epithelial	epithelial_cell_of_proximal_tubule	Kidney	PROXIMAL TUBULE EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO103AAA	epithelial cell of proximal tubule
+BSS00313	HSC & B-cell	erythroblast_male		ERYTHROBLAST			unknown/mixed			male	primary cell	#55A354	Immune	ENCODE (New)	NA	NA
+BSS00315	ESC	ES-I3		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO840PTG	ES-I3
+BSS00316	Digestive	esophagus_female_adult_(30_years)		ESOPHAGUS			adult	30	year	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO424HVB	esophagus female adult (30 years)
+BSS00318	Digestive	esophagus_male_adult_(34_years)		ESOPHAGUS			adult	34	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO058AAA	esophagus male adult (34 years)
+BSS00320	Digestive	esophagus_muscularis_mucosa_female_adult_(51_year)		ESOPHAGUS MUSCULARIS MUCOSA			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS00321	Digestive	esophagus_muscularis_mucosa_female_adult_(53_years)		ESOPHAGUS MUSCULARIS MUCOSA			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	esophagus muscularis mucosa female adult (53 years)
+BSS00322	Digestive	esophagus_muscularis_mucosa_male_adult_(37_years)		ESOPHAGUS MUSCULARIS MUCOSA			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO845WKR	esophagus muscularis mucosa male adult (37 years)
+BSS00323	Digestive	esophagus_muscularis_mucosa_male_adult_(54_years)		ESOPHAGUS MUSCULARIS MUCOSA			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO451RUA	esophagus muscularis mucosa male adult (54 years)
+BSS00324	Digestive	esophagus_squamous_epithelium_female_adult_(51_year)		ESOPHAGUS SQUAMOUS EPITHELIUM			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW	esophagus squamous epithelium female adult (51 year)
+BSS00325	Digestive	esophagus_squamous_epithelium_female_adult_(53_years)		ESOPHAGUS SQUAMOUS EPITHELIUM			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	esophagus squamous epithelium female adult (53 years)
+BSS00326	Digestive	esophagus_squamous_epithelium_male_adult_(37_years)		ESOPHAGUS SQUAMOUS EPITHELIUM			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO845WKR	esophagus squamous epithelium male adult (37 years)
+BSS00327	Digestive	esophagus_squamous_epithelium_male_adult_(54_years)		ESOPHAGUS SQUAMOUS EPITHELIUM			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS00328	Eye	eye_embryo_(56_days)_and_male_embryo_(76_days)		EYE			embryonic	76,56	day	unknown/mixed	tissue	#EAD1DC	Neural	ENCODE (New)	ENCDO647EYG,ENCDO708OLI	eye embryo (56 days) and male embryo (76 days)
+BSS00329	Eye	eye_female_embryo_(76_days)		EYE			embryonic	76	day	female	tissue	#EAD1DC	Neural	ENCODE (New)	ENCDO237NAG	eye female embryo (76 days)
+BSS00330	Bone	femur_female_embryo_(98_days)		BONE FEMUR			embryonic	98	day	female	tissue	#6FB7EB	Tissue	ENCODE (New)	ENCDO298NZG	femur female embryo (98 days)
+BSS00332	Stromal	fibroblast_of_breast_female_adult_(17_years)		BREAST FIBROBLAST			adult	17	year	female	primary cell	#FF720C	Primary Cell	Roadmap (New)	ENCDO967GTN	fibroblast of breast female adult (17 years)
+BSS00333	Stromal	fibroblast_of_breast_female_adult_(26_years)		BREAST FIBROBLAST			adult	26	year	female	primary cell	#FF720C	Primary Cell	Roadmap (New)	ENCDO881IIS	fibroblast of breast female adult (26 years)
+BSS00334	Stromal	fibroblast_of_dermis		DERMIS FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE 2012	ENCDO759UVX	fibroblast of dermis
+BSS00335	Stromal	fibroblast_of_dermis_female_adult		DERMIS FIBROBLAST			adult	unknown		female	primary cell	#FF720C	Primary Cell	ENCODE 2012	ENCDO267AAA	fibroblast of dermis female adult
+BSS00337	Stromal	fibroblast_of_dermis_NONE_and_female_adult		DERMIS FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE 2012	ENCDO267AAA,ENCDO759UVX	fibroblast of dermis NONE and female adult
+BSS00338	Stromal	fibroblast_of_gingiva	Other	GINGIVAL FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO235AAA	fibroblast of gingiva
+BSS00339	Stromal	fibroblast_of_lung	Lung	LUNG FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO333AAA	fibroblast of lung
+BSS00341	Stromal	fibroblast_of_lung_female_child_(11_year)_and_male_adult_(45_years)	Lung	LUNG FIBROBLAST			unknown/mixed	11,45	year	unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE 2012	ENCDO156MSV,ENCDO269AAA	fibroblast of lung female child (11 year) and male adult (45 years)
+BSS00342	Stromal	fibroblast_of_lung_male_adult_(45_years)	Lung	LUNG FIBROBLAST			adult	45	year	male	primary cell	#FF720C	Primary Cell	ENCODE 2012	ENCDO269AAA	fibroblast of lung male adult (45 years)
+BSS00343	Stromal	fibroblast_of_mammary_gland_female		MAMMARY FIBROBLAST			unknown/mixed	unknown		female	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO236AAA	fibroblast of mammary gland female
+BSS00344	Stromal	fibroblast_of_peridontal_ligament_male	Other	PERIDONTAL LIGAMENT FIBROBLAST			unknown/mixed	unknown		male	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO247AAA	fibroblast of peridontal ligament male
+BSS00345	Stromal	fibroblast_of_pulmonary_artery	Lung	PULMONARY ARTERY FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO245AAA	fibroblast of pulmonary artery
+BSS00346	Stromal	fibroblast_of_skin_of_abdomen_male_embryo_(97_days)		SKIN FIBROBLAST			embryonic	97	day	male	primary cell	#FF720C	Primary Cell	Roadmap (New)	ENCDO576LXR	fibroblast of skin of abdomen male embryo (97 days)
+BSS00347	Stromal	fibroblast_of_the_aortic_adventitia_female	Heart	AORTA FIBROBLAST			unknown/mixed	unknown		female	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO175AAA	fibroblast of the aortic adventitia female
+BSS00349	Stromal	fibroblast_of_the_conjunctiva	Eye	CONJUNCTIVA FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO231AAA	fibroblast of the conjunctiva
+BSS00350	Stromal	fibroblast_of_villous_mesenchyme	Placenta & EEM	VILLOUS MESENCHYME FIBROBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO253AAA	fibroblast of villous mesenchyme
+BSS00352	Muscle	forelimb_muscle_female_embryo_(108_days)		ARM MUSCLE			embryonic	108	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO012PVK	forelimb muscle female embryo (108 days)
+BSS00353	Stromal	foreskin_fibroblast_male_newborn		FORESKIN FIBROBLAST			newborn	unknown		male	primary cell	#FF720C	Primary Cell	Roadmap 2015	ENCDO047TBB,ENCDO191CQJ,ENCDO232AAA,ENCDO666YUN,ENCDO686OPO	foreskin fibroblast male newborn
+BSS00354	Epithelial	foreskin_keratinocyte_male_newborn		FORESKIN KERATINOCYTE			newborn	unknown		male	primary cell	#FF9D0C	Primary Cell	Roadmap 2015	ENCDO047TBB,ENCDO666YUN,ENCDO686OPO	foreskin keratinocyte male newborn
+BSS00355	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)		FORESKIN KERATINOCYTE			newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days)
+BSS00356	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_0_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_0_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 0 days
+BSS00357	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_0.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_0.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 0.5 days
+BSS00358	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_1_day		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_1_day	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 1 day
+BSS00359	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_1.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_1.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 1.5 days
+BSS00360	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_2_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_2_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 2 days
+BSS00361	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_2.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_2.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 2.5 days
+BSS00362	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_3_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_3_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 3 days
+BSS00363	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_3.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_3.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 3.5 days
+BSS00364	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_4_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_4_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 4 days
+BSS00365	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_4.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_4.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 4.5 days
+BSS00366	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 5 days
+BSS00367	Epithelial	foreskin_keratinocyte_male_newborn_(2-4_days)_treated_with_1.2_mM_calcium_for_5.5_days		FORESKIN KERATINOCYTE	foreskin_keratinocyte_male_newborn_(2-4_days)	1.2_mM_calcium_for_5.5_days	newborn	2-4	day	male	primary cell	#FF9D0C	Primary Cell	GGR	ENCDO005EGE,ENCDO615NVN	foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 5.5 days
+BSS00368	Other	foreskin_melanocyte_male_newborn		FORESKIN MELANOCYTE			newborn	unknown		male	primary cell	#999999	Other	Roadmap 2015	ENCDO047TBB,ENCDO666YUN,ENCDO686OPO	foreskin melanocyte male newborn
+BSS00369	Brain	frontal_cortex_female_adult_(67_years)_and_female_adult_(80_years)		FRONTAL CORTEX			adult	67,80	year	female	tissue	#C5912B	Neural	ENCODE (New)	ENCDO311AAA,ENCDO312AAA	frontal cortex female adult (67 years) and female adult (80 years)
+BSS00371	Brain	frontal_cortex_male_adult_(27_years)_and_male_adult_(35_years)		FRONTAL CORTEX			adult	35,27	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO006AAA,ENCDO007AAA	frontal cortex male adult (27 years) and male adult (35 years)
+BSS00372	Cancer	G401	Kidney	KIDNEY RHABOID TUMOR			child	3	month	male	cell line	#000000	Other	ENCODE (New)	ENCDO572LRN	G401
+BSS00376	Muscle	gastrocnemius_medialis_female_adult_(51_year)		GASTROCNEMIUS MEDIALIS			adult	51	year	female	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO271OUW	gastrocnemius medialis female adult (51 year)
+BSS00377	Muscle	gastrocnemius_medialis_female_adult_(53_years)		GASTROCNEMIUS MEDIALIS			adult	53	year	female	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO793LXB	gastrocnemius medialis female adult (53 years)
+BSS00378	Muscle	gastrocnemius_medialis_male_adult_(37_years)		GASTROCNEMIUS MEDIALIS			adult	37	year	male	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO845WKR	gastrocnemius medialis male adult (37 years)
+BSS00379	Muscle	gastrocnemius_medialis_male_adult_(54_years)		GASTROCNEMIUS MEDIALIS			adult	54	year	male	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO451RUA	gastrocnemius medialis male adult (54 years)
+BSS00380	Digestive	gastroesophageal_sphincter_female_adult_(51_year)		GASTROESOPHAGEAL SPHINCTER			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW	gastroesophageal sphincter female adult (51 year)
+BSS00381	Digestive	gastroesophageal_sphincter_female_adult_(53_years)		GASTROESOPHAGEAL SPHINCTER			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	gastroesophageal sphincter female adult (53 years)
+BSS00382	Digestive	gastroesophageal_sphincter_male_adult_(37_years)		GASTROESOPHAGEAL SPHINCTER			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS00383	Digestive	gastroesophageal_sphincter_male_adult_(54_years)		GASTROESOPHAGEAL SPHINCTER			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS00384	HSC & B-cell	germinal_center		GERMINAL CENTER			unknown/mixed	unknown		unknown/mixed	tissue	#55A354	Immune	ENCODE (New)	ENCDO187AAA	germinal center
+BSS00385	Brain	germinal_matrix_male_embryo_(20_weeks)		GERMINAL MATRIX			embryonic	20	week	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO026HUZ,ENCDO463PIS	germinal matrix male embryo (20 weeks)
+BSS00386	Brain	globus_pallidus_male_adult_(78_years)_and_male_adult_(84_years)		GLOBUS PALLIDUS			adult	84,78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB,ENCDO317XRR	globus pallidus male adult (78 years) and male adult (84 years)
+BSS00387	Endothelial	glomerular_endothelial_cell	Kidney	GLOMERULUS ENDOTHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO248AAA	glomerular endothelial cell
+BSS00389	Epithelial	glomerular_visceral_epithelial_cell_child_(3_years)	Kidney	GLOMERULUS VISCERAL EPITHELIAL CELL			child	3	year	unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO879VOF	glomerular visceral epithelial cell child (3 years)
+BSS00390	Stromal	GM03348		SKIN FIBROBLAST			child	10	year	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO186AAA	GM03348
+BSS00393	Stromal	GM04503		SKIN FIBROBLAST			adult	31	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO009AAA	GM04503
+BSS00394	Stromal	GM04504		SKIN FIBROBLAST			adult	31	year	female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAJ	GM04504
+BSS00395	Lymphoblastoid	GM06990		LYMPHOBLASTOID CELL LINE			unknown/mixed	unknown		female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABG	GM06990
+BSS00403	Lymphoblastoid	GM08714		LYMPHOBLASTOID CELL LINE			child	1	year	female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABH	GM08714
+BSS00404	Lymphoblastoid	GM10248		LYMPHOBLASTOID CELL LINE			adult	32	year	male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABI	GM10248
+BSS00405	Lymphoblastoid	GM10266		LYMPHOBLASTOID CELL LINE			adult	38	year	male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABJ	GM10266
+BSS00406	Lymphoblastoid	GM10847		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00408	Lymphoblastoid	GM12801		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00427	Lymphoblastoid	GM12864		LYMPHOBLASTOID CELL LINE			unknown/mixed	unknown		male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABO	GM12864
+BSS00428	Lymphoblastoid	GM12865		LYMPHOBLASTOID CELL LINE			unknown/mixed	unknown		female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABP	GM12865
+BSS00429	Lymphoblastoid	GM12866		LYMPHOBLASTOID CELL LINE			adult	unknown		male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABQ	NA
+BSS00430	Lymphoblastoid	GM12867		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00431	Lymphoblastoid	GM12868		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00432	Lymphoblastoid	GM12869		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00433	Lymphoblastoid	GM12870		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00434	Lymphoblastoid	GM12871		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00435	Lymphoblastoid	GM12872		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00436	Lymphoblastoid	GM12873		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00437	Lymphoblastoid	GM12874		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00438	Lymphoblastoid	GM12875		LYMPHOBLASTOID CELL LINE			adult	unknown		female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ABZ	GM12875
+BSS00439	Lymphoblastoid	GM12878		LYMPHOBLASTOID CELL LINE			adult	unknown		female	cell line	#4D9C8D	Immune	ENCODE 2012	ENCDO000AAK	GM12878
+BSS00452	Lymphoblastoid	GM12891		LYMPHOBLASTOID CELL LINE			unknown/mixed	unknown		male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACA	GM12891
+BSS00454	Lymphoblastoid	GM12892		LYMPHOBLASTOID CELL LINE			unknown/mixed	unknown		female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000AAL	GM12892
+BSS00456	Lymphoblastoid	GM13976		LYMPHOBLASTOID CELL LINE			adult	20	year	female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACB	GM13976
+BSS00457	Lymphoblastoid	GM13977		LYMPHOBLASTOID CELL LINE			adult	20	year	female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACD	GM13977
+BSS00458	Lymphoblastoid	GM15510		LYMPHOBLASTOID CELL LINE			unknown/mixed			unknown/mixed	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00460	Lymphoblastoid	GM18505		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00462	Lymphoblastoid	GM18507		LYMPHOBLASTOID CELL LINE			unknown/mixed			male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACG	GM18507
+BSS00463	Lymphoblastoid	GM18526		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00465	Lymphoblastoid	GM18951		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00467	Lymphoblastoid	GM19099		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00469	Lymphoblastoid	GM19193		LYMPHOBLASTOID CELL LINE			unknown/mixed			female	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS00471	Lymphoblastoid	GM19238		LYMPHOBLASTOID CELL LINE			adult			female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACL	GM19238
+BSS00472	Lymphoblastoid	GM19239		LYMPHOBLASTOID CELL LINE			adult	unknown		male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACM	GM19239
+BSS00473	Lymphoblastoid	GM19240		LYMPHOBLASTOID CELL LINE			adult	unknown		female	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACN	GM19240
+BSS00474	Lymphoblastoid	GM20000		LYMPHOBLASTOID CELL LINE			child	1	year	male	cell line	#4D9C8D	Immune	ENCODE (New)	ENCDO000ACO	GM20000
+BSS00476	Stromal	GM23248		SKIN FIBROBLAST			adult	53	year	male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO336AAA	GM23248
+BSS00477	iPSC	GM23338_male_adult_(53_years)_originated_from_GM23248		iPSC			adult	53	year	male	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO336AAA	GM23338 male adult (53 years) originated from GM23248
+BSS00478	ESC	H1-hESC		ESC			embryonic	unknown		male	cell line	#924965	Stem-like	Roadmap 2015	ENCDO000AAW	H1-hESC
+BSS00481	Cancer	H4	Brain	NEUROGLIOMA			adult	37	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO337AAA	H4
+BSS00482	Cancer	H54	Brain	GLIOBLASTOMA			adult	36	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ACT	H54
+BSS00483	ESC	H7-hESC		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO221AAA	H7-hESC
+BSS00484	ESC	H9		ESC			embryonic	5	day	female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO222AAA	H9
+BSS00491	Cancer	HAP-1	HSC & B-cell	HAPLOID MYELOGENOUS LEUKEMIA			adult	44	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO763VKT	HAP-1
+BSS00492	Cancer	HCT116	Digestive	COLORECTAL ADENOCARCINOMA			adult	unknown		male	cell line	#000000	Other	ENCODE (New)	ENCDO000ABE	HCT116
+BSS00493	Heart	heart_embryo_(101_day)		HEART			embryonic	101	day	unknown/mixed	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO308YQF	heart embryo (101 day)
+BSS00494	Heart	heart_embryo_(59_days)_and_female_embryo_(76_days)		HEART			embryonic	59,76	day	unknown/mixed	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO163CLX,ENCDO237NAG	heart embryo (59 days) and female embryo (76 days)
+BSS00495	Heart	heart_embryo_(80_days)		HEART			embryonic	80	day	unknown/mixed	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO662IIE	heart embryo (80 days)
+BSS00496	Heart	heart_embryo_(96_days)		HEART			embryonic	96	day	unknown/mixed	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO226BUZ	heart embryo (96 days)
+BSS00498	Heart	heart_female_embryo_(103_days)		HEART			embryonic	103	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO623IAT	heart female embryo (103 days)
+BSS00499	Heart	heart_female_embryo_(105_days)		HEART			embryonic	105	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO718LHH	heart female embryo (105 days)
+BSS00500	Heart	heart_female_embryo_(110_days)		HEART			embryonic	110	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO087TLK	heart female embryo (110 days)
+BSS00501	Heart	heart_female_embryo_(116_days)_and_female_embryo_(98_days)		HEART			embryonic	116,98	day	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO298NZG,ENCDO712ZBZ	heart female embryo (116 days) and female embryo (98 days)
+BSS00502	Heart	heart_female_embryo_(117_days)		HEART			embryonic	117	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO453STB	heart female embryo (117 days)
+BSS00503	Heart	heart_female_embryo_(147_days)		HEART			embryonic	147	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO863JOG	heart female embryo (147 days)
+BSS00505	Heart	heart_female_embryo_(91_day)		HEART			embryonic	91	day	female	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO605ZCF	heart female embryo (91 day)
+BSS00506	Heart	heart_left_ventricle_female_adult_(51_year)		HEART LEFT VENTRICLE			adult	51	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO271OUW	heart left ventricle female adult (51 year)
+BSS00507	Heart	heart_left_ventricle_female_adult_(53_years)		HEART LEFT VENTRICLE			adult	53	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO793LXB	heart left ventricle female adult (53 years)
+BSS00508	Heart	heart_left_ventricle_female_embryo_(101_day)_and_female_embryo_(103_days)		HEART LEFT VENTRICLE			embryonic	103,101	day	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO060OTP,ENCDO293DRY	heart left ventricle female embryo (101 day) and female embryo (103 days)
+BSS00509	Heart	heart_left_ventricle_female_embryo_(136_days)		HEART LEFT VENTRICLE			embryonic	136	day	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO294LOE	heart left ventricle female embryo (136 days)
+BSS00511	Liver	liver_male_adult_(32 years)		LIVER			adult	32	year	male	tissue	#5151E7	Tissue	Roadmap (New)	ENCDO060AAA	heart left ventricle male adult (32 years)
+BSS00512	Heart	heart_left_ventricle_male_adult_(34_years)		HEART LEFT VENTRICLE			adult	34	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO058AAA	heart left ventricle male adult (34 years)
+BSS00513	Heart	heart_left_ventricle_male_child_(3_years)		HEART LEFT VENTRICLE			child	3	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO478OMA	heart left ventricle male child (3 years)
+BSS00514	Heart	heart_male_adult_(27_years)_and_male_adult_(35_years)		HEART			adult	35,27	year	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO006AAA,ENCDO007AAA	heart male adult (27 years) and male adult (35 years)
+BSS00516	Heart	heart_male_child_(3_years)		HEART			child	3	year	male	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO478OMA	heart male child (3 years)
+BSS00517	Heart	heart_male_embryo_(105_days)		HEART			embryonic	105	day	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO350ZUK	heart male embryo (105 days)
+BSS00518	Heart	heart_male_embryo_(110_days)		HEART			embryonic	110	day	male	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO640NNW	heart male embryo (110 days)
+BSS00519	Heart	heart_male_embryo_(120_days)		HEART			embryonic	120	day	male	tissue	#D56F80	Tissue	Roadmap (New)	ENCDO249ZDZ	heart male embryo (120 days)
+BSS00520	Heart	heart_male_embryo_(72_days)_and_male_embryo_(76_days)		HEART			embryonic	72,76	day	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO300THQ,ENCDO647EYG	heart male embryo (72 days) and male embryo (76 days)
+BSS00521	Heart	heart_male_embryo_(91_day)		HEART			embryonic	91	day	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO375VTO	heart male embryo (91 day)
+BSS00522	Heart	heart_male_embryo_(96_days)		HEART			embryonic	96	day	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO778DGP	heart male embryo (96 days)
+BSS00523	Heart	heart_right_ventricle_female_embryo_(101_day)_and_female_embryo_(103_days)		HEART RIGHT VENTRICLE			embryonic	101,103	day	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO060OTP,ENCDO293DRY	heart right ventricle female embryo (101 day) and female embryo (103 days)
+BSS00524	Heart	heart_right_ventricle_male_adult_(34_years)		HEART RIGHT VENTRICLE			adult	34	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO058AAA	heart right ventricle male adult (34 years)
+BSS00525	Heart	heart_right_ventricle_male_child_(3_years)		HEART RIGHT VENTRICLE			child	3	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO478OMA	heart right ventricle male child (3 years)
+BSS00526	Kidney	HEK293		KIDNEY CELL			embryonic	unknown		female	cell line	#660000	Tissue	ENCODE (New)	ENCDO000ABF	HEK293
+BSS00528	Kidney	HEK293T		KIDNEY CELL			embryonic	unknown		female	cell line	#660000	Tissue	ENCODE (New)	ENCDO000ABF	HEK293T
+BSS00529	Cancer	HeLa-S3	Reproductive	CERVIX ADENOCARCINOMA			adult	31	year	female	cell line	#000000	Other	ENCODE 2012	ENCDO000AAB	HeLa-S3
+BSS00531	Cancer	HeLa-S3_G1b_phase	Reproductive	CERVIX ADENOCARCINOMA	HeLa-S3	G1b_phase	adult	31	year	female	cell line	#000000	Other	ENCODE 2012	ENCDO000AAB	HeLa-S3 G1b phase
+BSS00541	Cancer	HeLa-S3_treated_with_interferon_alpha_for_4_hours	Reproductive	CERVIX ADENOCARCINOMA	HeLa-S3	interferon_alpha_for_4_hours	adult	31	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAB	HeLa-S3 treated with interferon alpha for 4 hours
+BSS00543	HSC & B-cell	hematopoietic_multipotent_progenitor_cell		MPP			unknown/mixed	unknown		unknown/mixed	in vitro differentiated cells	#55A354	Immune	Roadmap (New)	ENCDO116AAA,ENCDO579CCQ,ENCDO937OUY	hematopoietic multipotent progenitor cell
+BSS00544	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_male_adult_(25_years)_treated_with_erythropoietin_for_20_days,_hydrocortisone_succinate_for_20_days,_kit_ligand_for_20_days,_interleukin-3_for_20_days		MPP	hematopoietic_multipotent_progenitor_cell_male_adult_(25_years)	erythropoietin_for_20_days,_hydrocortisone_succinate_for_20_days,_kit_ligand_for_20_days,_interleukin-3_for_20_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell male adult (25 years) treated with erythropoietin for 20 days, hydrocortisone succinate for 20 days, kit ligand for 20 days, interleukin-3 for 20 days
+BSS00545	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_11_day,_kit_ligand_for_11_day,_hydrocortisone_succinate_for_11_day,_erythropoietin_for_11_day		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_11_day,_kit_ligand_for_11_day,_hydrocortisone_succinate_for_11_day,_erythropoietin_for_11_day	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 11 day, kit ligand for 11 day, hydrocortisone succinate for 11 day, erythropoietin for 11 day
+BSS00546	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_13_days,_kit_ligand_for_13_days,_hydrocortisone_succinate_for_13_days,_erythropoietin_for_13_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_13_days,_kit_ligand_for_13_days,_hydrocortisone_succinate_for_13_days,_erythropoietin_for_13_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 13 days, kit ligand for 13 days, hydrocortisone succinate for 13 days, erythropoietin for 13 days
+BSS00547	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_15_days,_kit_ligand_for_15_days,_hydrocortisone_succinate_for_15_days,_erythropoietin_for_15_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_15_days,_kit_ligand_for_15_days,_hydrocortisone_succinate_for_15_days,_erythropoietin_for_15_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 15 days, kit ligand for 15 days, hydrocortisone succinate for 15 days, erythropoietin for 15 days
+BSS00548	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_17_days,_kit_ligand_for_17_days,_hydrocortisone_succinate_for_17_days,_erythropoietin_for_17_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_17_days,_kit_ligand_for_17_days,_hydrocortisone_succinate_for_17_days,_erythropoietin_for_17_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 17 days, kit ligand for 17 days, hydrocortisone succinate for 17 days, erythropoietin for 17 days
+BSS00549	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_18_days,_kit_ligand_for_18_days,_hydrocortisone_succinate_for_18_days,_erythropoietin_for_18_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_18_days,_kit_ligand_for_18_days,_hydrocortisone_succinate_for_18_days,_erythropoietin_for_18_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 18 days, kit ligand for 18 days, hydrocortisone succinate for 18 days, erythropoietin for 18 days
+BSS00550	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_4_days,_kit_ligand_for_4_days,_hydrocortisone_succinate_for_4_days,_erythropoietin_for_4_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_4_days,_kit_ligand_for_4_days,_hydrocortisone_succinate_for_4_days,_erythropoietin_for_4_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 4 days, kit ligand for 4 days, hydrocortisone succinate for 4 days, erythropoietin for 4 days
+BSS00551	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_6_days,_kit_ligand_for_6_days,_hydrocortisone_succinate_for_6_days,_erythropoietin_for_6_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_6_days,_kit_ligand_for_6_days,_hydrocortisone_succinate_for_6_days,_erythropoietin_for_6_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 6 days, kit ligand for 6 days, hydrocortisone succinate for 6 days, erythropoietin for 6 days
+BSS00552	HSC & B-cell	hematopoietic_multipotent_progenitor_cell_treated_with_interleukin-3_for_8_days,_kit_ligand_for_8_days,_hydrocortisone_succinate_for_8_days,_erythropoietin_for_8_days		MPP	hematopoietic_multipotent_progenitor_cell	interleukin-3_for_8_days,_kit_ligand_for_8_days,_hydrocortisone_succinate_for_8_days,_erythropoietin_for_8_days	adult	25	year	male	in vitro differentiated cells	#55A354	Immune	ENCODE (New)	ENCDO937OUY	hematopoietic multipotent progenitor cell treated with interleukin-3 for 8 days, kit ligand for 8 days, hydrocortisone succinate for 8 days, erythropoietin for 8 days
+BSS00553	Liver	hepatic_stellate_cell_female_adult_(59_years)		HEPATIC STELLATE CELL			adult	59	year	female	primary cell	#5151E7	Tissue	ENCODE (New)	ENCDO282AAA	hepatic stellate cell female adult (59 years)
+BSS00554	Liver	hepatocyte		HEPATOCYTE			unknown/mixed	unknown		unknown/mixed	primary cell	#5151E7	Tissue	ENCODE (New)	ENCDO102AAA	hepatocyte
+BSS00556	ES-deriv	hepatocyte_originated_from_H9	Liver	HEPATOCYTE DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO222AAA	hepatocyte originated from H9
+BSS00558	Cancer	HepG2	Liver	HEPATOCELLULAR CARCINOMA			child	15	year	male	cell line	#000000	Other	ENCODE 2012	ENCDO000AAC	HepG2
+BSS00694	Cancer	HepG2_treated_with_2_mM_pravastatin_for_16_hours	Liver	HEPATOCELLULAR CARCINOMA	HepG2	2_mM_pravastatin_for_16_hours	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS00695	Cancer	HepG2_treated_with_forskolin_and_pyruvate_for_6_hours	Liver	HEPATOCELLULAR CARCINOMA	HepG2	forskolin_and_pyruvate_for_6_hours	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS00697	Stromal	HFF-Myc_originated_from_foreskin_fibroblast		FORESKIN FIBROBLAST			newborn	unknown		male	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO232AAA	HFF-Myc originated from foreskin fibroblast
+BSS00700	Muscle	hindlimb_muscle_male_embryo_(120_days)		LEG MUSCLE			embryonic	120	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO249ZDZ	hindlimb muscle male embryo (120 days)
+BSS00701	Epithelial	HK-2	Kidney	PROXIMAL TUBULE EPITHELIAL CELL			unknown/mixed	unknown		male	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO592BBN	HK-2
+BSS00702	Cancer	HL-60	HSC & B-cell	ACUTE PROMYELOCYTIC LEUKEMIA			adult	36	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAM	HL-60
+BSS00703	Epithelial	HPDE6-E6E7	Pancreas	PANCREATIC DUCT EPITHELIAL CELL			adult	63	year	female	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO830PVG	HPDE6-E6E7
+BSS00704	Epithelial	HS-27A	Bone	BONE MARROW EPITHELIAL CELL			adult	unknown		male	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000AAT	HS-27A
+BSS00705	Bone	HS-5		BONE MARROW STROMA			adult	unknown		male	cell line	#6FB7EB	Tissue	ENCODE (New)	ENCDO000AAU	HS-5
+BSS00708	Cancer	HT-29	Digestive	COLORECTAL ADENOCARCINOMA			adult	44	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO347AAA	HT-29
+BSS00709	Cancer	HT1080	Stromal	FIBROSARCOMA			adult	35	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO033CRF	HT1080
+BSS00714	Placenta & EEM	HTR-8_SVneo		TROPHOBLAST			embryonic	6-12	week	unknown/mixed	cell line	#E10000	Tissue	ENCODE (New)	ENCDO252AAA	HTR-8/SVneo
+BSS00715	ESC	HUES48		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO741IWK	HUES48
+BSS00716	ESC	HUES6		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO734LQV	HUES6
+BSS00717	ESC	HUES64		ESC			embryonic	unknown		male	cell line	#924965	Stem-like	Roadmap 2015	ENCDO424FTP	HUES64
+BSS00718	Cancer	HuH-7	Liver	HEPATOCELLULAR CARCINOMA			adult	57	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACU	HuH-7
+BSS00719	Cancer	HuH-7.5	Liver	HEPATOCELLULAR CARCINOMA			adult	57	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACU	HuH-7.5
+BSS00720	Stromal	IMR-90	Lung	LUNG FIBROBLAST			embryonic	16	week	female	cell line	#FF720C	Primary Cell	Roadmap 2015	ENCDO000AAX	IMR-90
+BSS00729	Brain	inferior_parietal_cortex_male_adult_(84_years)		INFERIOR PARIETAL CORTEX			adult	84	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB	inferior parietal cortex male adult (84 years)
+BSS00731	iPSC	iPS_DF_19.11_male_newborn		iPSC			newborn	unknown		male	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO592CQV	iPS DF 19.11 male newborn
+BSS00732	iPSC	iPS_DF_19.7_male_newborn		iPSC			newborn	unknown		male	cell line	#69608A	Stem-like	Roadmap (New)	ENCDO592CQV	iPS DF 19.7 male newborn
+BSS00733	iPSC	iPS_DF_4.7_male_newborn		iPSC			newborn	unknown		male	cell line	#69608A	Stem-like	Roadmap (New)	ENCDO592CQV	iPS DF 4.7 male newborn
+BSS00734	iPSC	iPS_DF_6.9_male_newborn		iPSC			newborn	unknown		male	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO592CQV	iPS DF 6.9 male newborn
+BSS00735	iPSC	iPS-11a_male_adult_(36_years)		iPSC			adult	36	year	male	cell line	#69608A	Stem-like	Roadmap (New)	ENCDO632AGT	iPS-11a male adult (36 years)
+BSS00736	iPSC	iPS-15b_female_adult_(48_years)		iPSC			adult	48	year	female	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO163OST	iPS-15b female adult (48 years)
+BSS00737	iPSC	iPS-18a_female_adult_(48_years)		iPSC			adult	48	year	female	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO844VGJ	iPS-18a female adult (48 years)
+BSS00738	iPSC	iPS-18c_female_adult_(48_years)		iPSC			adult	48	year	female	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO844VGJ	iPS-18c female adult (48 years)
+BSS00739	iPSC	iPS-20b_male_adult_(55_years)		iPSC			adult	55	year	male	cell line	#69608A	Stem-like	Roadmap 2015	ENCDO175XVW	iPS-20b male adult (55 years)
+BSS00741	iPSC	iPS-NIHi11_male_adult_(71_year)_originated_from_AG20443		iPSC			adult	71	year	male	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO696YOM	iPS-NIHi11 male adult (71 year) originated from AG20443
+BSS00742	iPSC	iPS-NIHi7_female_adult_(85_years)_originated_from_AG08395		iPSC			adult	85	year	female	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO016AAA	iPS-NIHi7 female adult (85 years) originated from AG08395
+BSS00743	Epithelial	iris_pigment_epithelial_cell	Eye	IRIS PIGMENT EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO100AAA	iris pigment epithelial cell
+BSS00744	Cancer	Ishikawa	Reproductive	ENDOMETRIAL ADENOCARCINOMA			unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS00745	Cancer	Ishikawa_treated_with_0.02pct_dimethyl_sulfoxide_for_1_hour	Reproductive	ENDOMETRIAL ADENOCARCINOMA	Ishikawa	0.02pct_dimethyl_sulfoxide_for_1_hour	adult	39	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ACV	Ishikawa treated with 0.02% dimethyl sulfoxide for 1 hour
+BSS00748	Cancer	Ishikawa_treated_with_10_nM_17b-estradiol_for_30_minutes	Reproductive	ENDOMETRIAL ADENOCARCINOMA	Ishikawa	10_nM_17b-estradiol_for_30_minutes	adult	39	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ACV	Ishikawa treated with 10 nM 17β-estradiol for 30 minutes
+BSS00756	Cancer	Ishikawa_treated_with_600_nM_afimoxifene_for_30_minutes	Reproductive	ENDOMETRIAL ADENOCARCINOMA	Ishikawa	600_nM_afimoxifene_for_30_minutes	adult	39	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ACV	Ishikawa treated with 600 nM afimoxifene for 30 minutes
+BSS00758	Pancreas	islet_precursor_cell		ISLET PRECURSOR CELL			embryonic	5	day	female	in vitro differentiated cells	#87A3E1	Tissue	ENCODE (New)	ENCDO222AAA	islet precursor cell
+BSS00760	HSC & B-cell	Jurkat_clone_E61		LYMPHOCYTE			child	14	year	male	cell line	#55A354	Immune	ENCODE (New)	ENCDO000AAY	Jurkat clone E61
+BSS00762	Cancer	K562	HSC & B-cell	MYELOGENOUS LEUKEMIA			adult	53	year	female	cell line	#000000	Other	ENCODE 2012	ENCDO000AAD	K562
+BSS01038	Cancer	K562_G1_phase	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	G1_phase	adult	53	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAD	K562 G1 phase
+BSS01039	Cancer	K562_G2_phase	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	G2_phase	adult	53	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAD	K562 G2 phase
+BSS01056	Cancer	K562_treated_with_0.05pct_dimethyl_sulfoxide_for_72_hours	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	0.05pct_dimethyl_sulfoxide_for_72_hours	adult	53	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAD	K562 treated with 0.05% dimethyl sulfoxide for 72 hours
+BSS01057	Cancer	K562_treated_with_1_mM_vorinostat_for_72_hours	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	1_mM_vorinostat_for_72_hours	adult	53	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAD	K562 treated with 1 μM vorinostat for 72 hours
+BSS01059	Cancer	K562_treated_with_500_mM_sodium_butyrate_for_72_hours	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	500_mM_sodium_butyrate_for_72_hours	adult	53	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAD	K562 treated with 500 μM sodium butyrate for 72 hours
+BSS01060	Cancer	K562_treated_with_interferon_alpha_for_30_minutes	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	interferon_alpha_for_30_minutes	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01061	Cancer	K562_treated_with_interferon_alpha_for_6_hours	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	interferon_alpha_for_6_hours	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01062	Cancer	K562_treated_with_interferon_gamma_for_30_minutes	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	interferon_gamma_for_30_minutes	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01063	Cancer	K562_treated_with_interferon_gamma_for_6_hours	HSC & B-cell	MYELOGENOUS LEUKEMIA	K562	interferon_gamma_for_6_hours	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01065	Cancer	Karpas-422	HSC & B-cell	B CELL LYMPHOMA			adult	72	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO354AAA	Karpas-422
+BSS01066	Cancer	KBM-7	HSC & B-cell	MYELOGENOUS LEUKEMIA			adult	44	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO763VKT	KBM-7
+BSS01068	Epithelial	keratinocyte_female		KERATINOCYTE			unknown/mixed	unknown		female	primary cell	#FF9D0C	Primary Cell	ENCODE 2012	ENCDO268AAA,ENCDO302AAA	keratinocyte female
+BSS01071	Epithelial	keratinocyte_male		KERATINOCYTE			unknown/mixed	unknown		male	primary cell	#FF9D0C	Primary Cell	ENCODE 2012	ENCDO303AAA	keratinocyte male
+BSS01077	Endothelial	kidney_capillary_endothelial_cell_female_embryo_(113_days)	Kidney	KIDNEY CAPILLARY ENDOTHELIAL CELL			embryonic	113	day	female	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO987XTQ	kidney capillary endothelial cell female embryo (113 days)
+BSS01078	Kidney	kidney_embryo_(59_days)_and_female_embryo_(59_days)		KIDNEY			embryonic	59	day	unknown/mixed	tissue	#660000	Tissue	ENCODE (New)	ENCDO065EIP,ENCDO163CLX	kidney embryo (59 days) and female embryo (59 days)
+BSS01079	Kidney	kidney_embryo_(80_days)		KIDNEY			embryonic	80	day	unknown/mixed	tissue	#660000	Tissue	ENCODE (New)	ENCDO662IIE	kidney embryo (80 days)
+BSS01080	Epithelial	kidney_epithelial_cell	Kidney	KIDNEY EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO810BYC	kidney epithelial cell
+BSS01084	Kidney	kidney_female_embryo_(105_days)		KIDNEY			embryonic	105	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO718LHH,ENCDO863KZW	kidney female embryo (105 days)
+BSS01085	Kidney	kidney_female_embryo_(108_days)		KIDNEY			embryonic	108	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO012PVK	kidney female embryo (108 days)
+BSS01086	Kidney	kidney_female_embryo_(113_days)		KIDNEY			embryonic	113	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO319EMZ	kidney female embryo (113 days)
+BSS01088	Kidney	kidney_female_embryo_(120_days)		KIDNEY			embryonic	120	day	female	tissue	#660000	Tissue	Roadmap 2015	ENCDO670CKN	kidney female embryo (120 days)
+BSS01089	Kidney	kidney_female_embryo_(121_day)		KIDNEY			embryonic	121	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO920LST	kidney female embryo (121 day)
+BSS01090	Kidney	kidney_female_embryo_(76_days)_and_male_embryo_(76_days)		KIDNEY			embryonic	76	day	unknown/mixed	tissue	#660000	Tissue	ENCODE (New)	ENCDO237NAG,ENCDO647EYG	kidney female embryo (76 days) and male embryo (76 days)
+BSS01091	Kidney	kidney_female_embryo_(85_days)		KIDNEY			embryonic	85	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO165PKL	kidney female embryo (85 days)
+BSS01092	Epithelial	kidney_glomerular_epithelial_cell_male_adult_(43_years)_and_male_adult_(62_years)	Kidney	GLOMERULUS EPITHELIAL CELL			adult	43,62	year	male	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO484OWJ,ENCDO730EZR	kidney glomerular epithelial cell male adult (43 years) and male adult (62 years)
+BSS01093	Kidney	kidney_male_adult_(22_years)_and_male_adult_(27_years)_and_male_adult_(35_years)		KIDNEY			adult	22	year	male	tissue	#660000	Tissue	ENCODE (New)	NA	NA
+BSS01096	Kidney	kidney_male_adult_(50_years)		KIDNEY			adult	50	year	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO646IOH	kidney male adult (50 years)
+BSS01097	Kidney	kidney_male_adult_(67_years)		KIDNEY			adult	67	year	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO620KOS	kidney male adult (67 years)
+BSS01099	Kidney	kidney_male_embryo_(105_days)		KIDNEY			embryonic	105	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO350ZUK	kidney male embryo (105 days)
+BSS01100	Kidney	kidney_male_embryo_(85_days)		KIDNEY			embryonic	85	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO342PFI	kidney male embryo (85 days)
+BSS01101	Kidney	kidney_male_embryo_(87_days)		KIDNEY			embryonic	87	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO443KWV	kidney male embryo (87 days)
+BSS01102	Epithelial	kidney_tubule_cell_female_adult_(80_years)_and_male_adult_(62_years)	Kidney	TUBULE CELL			adult	80,62	year	unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO335XPZ,ENCDO421EJG	kidney tubule cell female adult (80 years) and male adult (62 years)
+BSS01103	Epithelial	kidney_tubule_cell_female_adult_(80_years)_treated_with_5_mM_cisplatin	Kidney	TUBULE CELL	kidney_tubule_cell_female_adult_(80_years)	5_mM_cisplatin	adult	80	year	female	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO421EJG	kidney tubule cell female adult (80 years) treated with 5 μM cisplatin
+BSS01104	Cancer	KMS-11	HSC & B-cell	MYELOMA			adult	67	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO133EXU	KMS-11
+BSS01105	Cancer	KOPT-K1	Blood & T-cell	ACUTE LYMPHOBLASTIC LEUKEMIA			unknown/mixed	unknown		unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO568LPD	KOPT-K1
+BSS01107	iPSC	L1-S8		iPSC			unknown/mixed	unknown		unknown/mixed	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO315JDK	L1-S8
+BSS01108	iPSC	L1-S8R		iPSC			unknown/mixed	unknown		unknown/mixed	cell line	#69608A	Stem-like	ENCODE (New)	ENCDO315JDK	L1-S8R
+BSS01109	Digestive	large_intestine_female_embryo_(103_days)		LARGE INTESTINE			embryonic	103	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO623IAT	large intestine female embryo (103 days)
+BSS01110	Digestive	large_intestine_female_embryo_(105_days)		LARGE INTESTINE			embryonic	105	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO766MZV	large intestine female embryo (105 days)
+BSS01111	Digestive	large_intestine_female_embryo_(107_days)		LARGE INTESTINE			embryonic	107	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO607LOS	large intestine female embryo (107 days)
+BSS01112	Digestive	large_intestine_female_embryo_(108_days)		LARGE INTESTINE			embryonic	108	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO012PVK	large intestine female embryo (108 days)
+BSS01113	Digestive	large_intestine_female_embryo_(110_days)		LARGE INTESTINE			embryonic	110	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO087TLK	large intestine female embryo (110 days)
+BSS01114	Digestive	large_intestine_female_embryo_(120_days)		LARGE INTESTINE			embryonic	120	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO555CMC	large intestine female embryo (120 days)
+BSS01116	Digestive	large_intestine_female_embryo_(91_day)		LARGE INTESTINE			embryonic	91	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO605ZCF	large intestine female embryo (91 day)
+BSS01117	Digestive	large_intestine_female_embryo_(98_days)		LARGE INTESTINE			embryonic	98	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO837QWL	large intestine female embryo (98 days)
+BSS01118	Digestive	large_intestine_male_embryo_(105_days)		LARGE INTESTINE			embryonic	105	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO171HMD,ENCDO350ZUK	large intestine male embryo (105 days)
+BSS01119	Digestive	large_intestine_male_embryo_(108_days)		LARGE INTESTINE			embryonic	108	day	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO119ASK,ENCDO132ASK	large intestine male embryo (108 days)
+BSS01120	Digestive	large_intestine_male_embryo_(113_days)		LARGE INTESTINE			embryonic	113	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO608XKS	large intestine male embryo (113 days)
+BSS01121	Digestive	large_intestine_male_embryo_(115_days)		LARGE INTESTINE			embryonic	115	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO999JZG	large intestine male embryo (115 days)
+BSS01122	Digestive	large_intestine_male_embryo_(91_day)		LARGE INTESTINE			embryonic	91	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO375VTO	large intestine male embryo (91 day)
+BSS01124	Brain	layer_of_hippocampus_female_adult_(75_years)		HIPPOCAMPUS			adult	75	year	female	tissue	#C5912B	Neural	Roadmap (New)	ENCDO871IWW	layer of hippocampus female adult (75 years)
+BSS01125	Brain	layer_of_hippocampus_male_adult_(73_years)		HIPPOCAMPUS			adult	73	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO636RDE	layer of hippocampus male adult (73 years)
+BSS01126	Brain	layer_of_hippocampus_male_adult_(81_year)		HIPPOCAMPUS			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	layer of hippocampus male adult (81 year)
+BSS01127	Heart	left_cardiac_atrium_female_embryo_(101_day)		HEART LEFT ATRIUM			embryonic	101	day	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO060OTP	left cardiac atrium female embryo (101 day)
+BSS01128	Kidney	left_kidney_female_embryo_(107_days)		KIDNEY			embryonic	107	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO607LOS	left kidney female embryo (107 days)
+BSS01129	Kidney	left_kidney_female_embryo_(110_days)		KIDNEY			embryonic	110	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO087TLK	left kidney female embryo (110 days)
+BSS01130	Kidney	left_kidney_female_embryo_(147_days)		KIDNEY			embryonic	147	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO863JOG	left kidney female embryo (147 days)
+BSS01131	Kidney	left_kidney_female_embryo_(59_days)_and_male_embryo_(91_day)		KIDNEY			embryonic	91,59	day	unknown/mixed	tissue	#660000	Tissue	ENCODE (New)	ENCDO245RIZ,ENCDO294EUZ	left kidney female embryo (59 days) and male embryo (91 day)
+BSS01132	Kidney	left_kidney_female_embryo_(87_days)		KIDNEY			embryonic	87	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO814BQX	left kidney female embryo (87 days)
+BSS01133	Kidney	left_kidney_female_embryo_(98_days)		KIDNEY			embryonic	98	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO633IHH	left kidney female embryo (98 days)
+BSS01134	Kidney	left_kidney_male_embryo_(115_days)		KIDNEY			embryonic	115	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO816OTW	left kidney male embryo (115 days)
+BSS01135	Kidney	left_kidney_male_embryo_(87_days)		KIDNEY			embryonic	87	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO126IGB	left kidney male embryo (87 days)
+BSS01136	Kidney	left_kidney_male_embryo_(96_days)		KIDNEY			embryonic	96	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO817EKT	left kidney male embryo (96 days)
+BSS01137	Lung	left_lung_female_embryo_(105_days)		LUNG			embryonic	105	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO766MZV	left lung female embryo (105 days)
+BSS01138	Lung	left_lung_female_embryo_(107_days)		LUNG			embryonic	107	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO607LOS	left lung female embryo (107 days)
+BSS01139	Lung	left_lung_female_embryo_(108_days)		LUNG			embryonic	108	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO012PVK	left lung female embryo (108 days)
+BSS01140	Lung	left_lung_female_embryo_(110_days)		LUNG			embryonic	110	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO087TLK	left lung female embryo (110 days)
+BSS01141	Lung	left_lung_female_embryo_(117_days)		LUNG			embryonic	117	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO453STB	left lung female embryo (117 days)
+BSS01142	Lung	left_lung_female_embryo_(91_day)		LUNG			embryonic	91	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO605ZCF	left lung female embryo (91 day)
+BSS01143	Lung	left_lung_female_embryo_(98_days)		LUNG			embryonic	98	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO837QWL	left lung female embryo (98 days)
+BSS01144	Lung	left_lung_male_embryo_(105_days)		LUNG			embryonic	105	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO171HMD	left lung male embryo (105 days)
+BSS01145	Lung	left_lung_male_embryo_(113_days)		LUNG			embryonic	113	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO608XKS	left lung male embryo (113 days)
+BSS01146	Lung	left_lung_male_embryo_(115_days)		LUNG			embryonic	115	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO816OTW	left lung male embryo (115 days)
+BSS01147	Lung	left_lung_male_embryo_(87_days)		LUNG			embryonic	87	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO126IGB	left lung male embryo (87 days)
+BSS01148	Lung	left_lung_male_embryo_(91_day)		LUNG			embryonic	91	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO375VTO	left lung male embryo (91 day)
+BSS01149	Lung	left_lung_male_embryo_(96_days)		LUNG			embryonic	96	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO817EKT	left lung male embryo (96 days)
+BSS01150	Kidney	left_renal_cortex_interstitium_male_embryo_(105_days)		RENAL CORTEX INTERSTITIUM			embryonic	105	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO171HMD,ENCDO378UAU,ENCDO513BVP	left renal cortex interstitium male embryo (105 days)
+BSS01151	Kidney	left_renal_cortex_interstitium_male_embryo_(120_days)		RENAL CORTEX INTERSTITIUM			embryonic	120	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO327QNA	left renal cortex interstitium male embryo (120 days)
+BSS01152	Kidney	left_renal_pelvis_male_embryo_(105_days)		RENAL PELVIS			embryonic	105	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO171HMD,ENCDO378UAU,ENCDO513BVP	left renal pelvis male embryo (105 days)
+BSS01153	Kidney	left_renal_pelvis_male_embryo_(120_days)		RENAL PELVIS			embryonic	120	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO327QNA	left renal pelvis male embryo (120 days)
+BSS01154	Bone	leg_bone_male_embryo_(81_day)		BONE LEG			embryonic	81	day	male	tissue	#6FB7EB	Tissue	ENCODE (New)	ENCDO184UZW	leg bone male embryo (81 day)
+BSS01155	Myosat	LHCN-M2		SKELETAL MUSCLE MYOBLAST			adult	41	year	male	cell line	#E67326	Tissue	ENCODE (New)	ENCDO000ACW	LHCN-M2
+BSS01156	Other	limb_embryo_(53_days)_and_embryo_(56_days)		LIMB EMBRYO			embryonic	53,56	day	unknown/mixed	tissue	#999999	Other	ENCODE (New)	ENCDO114CJX,ENCDO733WDT,ENCDO870GPO	limb embryo (53 days) and embryo (56 days)
+BSS01157	Other	limb_embryo_(58_days)_and_embryo_(59_days)		LIMB EMBRYO			embryonic	58,59	day	unknown/mixed	tissue	#999999	Other	ENCODE (New)	ENCDO041UTR,ENCDO234CBV	limb embryo (58 days) and embryo (59 days)
+BSS01158	Liver	liver_embryo_(59_days)_and_embryo_(80_days)		LIVER			embryonic	59,80	day	unknown/mixed	tissue	#5151E7	Tissue	ENCODE (New)	ENCDO163CLX,ENCDO662IIE	liver embryo (59 days) and embryo (80 days)
+BSS01159	Liver	liver_female_adult_(25_years)		LIVER			adult	25	year	female	tissue	#5151E7	Tissue	Roadmap 2015	ENCDO776UMN	liver female adult (25 years)
+BSS01161	Liver	liver_female_child_(4_years)		LIVER			child	4	year	female	tissue	#5151E7	Tissue	ENCODE (New)	NA	NA
+BSS01163	Liver	liver_female_child_(6_years)_and_male_adult_(32_years)		LIVER			unknown/mixed	6,32	year	unknown/mixed	tissue	#5151E7	Tissue	ENCODE (New)	NA	NA
+BSS01164	Liver	liver_female_embryo_(101_day)_and_female_embryo_(113_days)		LIVER			embryonic	101,113	day	female	tissue	#5151E7	Tissue	ENCODE (New)	ENCDO060OTP,ENCDO987XTQ	liver female embryo (101 day) and female embryo (113 days)
+BSS01168	Liver	liver_male_adult_(31_year)		LIVER			adult	31	year	male	tissue	#5151E7	Tissue	Roadmap 2015	ENCDO832GKP	liver male adult (31 year)
+BSS01169	Liver	liver_male_adult_(32_years)		LIVER			adult	32	year	male	tissue	#5151E7	Tissue	Roadmap (New)	ENCDO060AAA	liver male adult (32 years)
+BSS01170	Liver	liver_male_adult_(78_years)		LIVER			adult	78	year	male	tissue	#5151E7	Tissue	Roadmap 2015	ENCDO232KQV	liver male adult (78 years)
+BSS01172	Cancer	LNCAP	Reproductive	PROSTATE ADENOCARCINOMA			unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01173	Cancer	LNCaP_clone_FGC	Reproductive	PROSTATE ADENOCARCINOMA			adult	50	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACX	LNCaP clone FGC
+BSS01174	Cancer	LNCaP_clone_FGC_treated_with_1_nM_17b-hydroxy-17-methylestra-4,9,11-trien-3-one_for_12_hours	Reproductive	PROSTATE ADENOCARCINOMA	LNCaP_clone_FGC	1_nM_17b-hydroxy-17-methylestra-4,9,11-trien-3-one_for_12_hours	adult	50	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACX	LNCaP clone FGC treated with 1 nM 17β-hydroxy-17-methylestra-4,9,11-trien-3-one for 12 hours
+BSS01177	Cancer	LNCAP_treated_with_10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	Reproductive	PROSTATE ADENOCARCINOMA	LNCAP	10_nM_17b-hydroxy-5a-androstan-3-one_for_4_hours	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01178	Cancer	Loucy	Blood & T-cell	ACUTE LYMPHOBLASTIC LEUKEMIA			adult	38	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO732PDS	Loucy
+BSS01179	Cancer	LoVo	Digestive	COLORECTAL ADENOCARCINOMA			adult	56	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO828APO	LoVo
+BSS01180	Epithelial	lower_leg_skin_female_adult_(51_year)		SKIN LEG			adult	51	year	female	tissue	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01181	Epithelial	lower_leg_skin_female_adult_(53_years)		SKIN LEG			adult	53	year	female	tissue	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO793LXB	lower leg skin female adult (53 years)
+BSS01182	Epithelial	lower_leg_skin_male_adult_(37_years)		SKIN LEG			adult	37	year	male	tissue	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO845WKR	lower leg skin male adult (37 years)
+BSS01183	Epithelial	lower_leg_skin_male_adult_(54_years)		SKIN LEG			adult	54	year	male	tissue	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01185	Epithelial	luminal_epithelial_cell_of_mammary_gland_female_adult_(33_years)		MAMMARY LUMINAL EPITHELIAL CELL			adult	33	year	female	primary cell	#FF9D0C	Primary Cell	Roadmap (New)	ENCDO819SJC	luminal epithelial cell of mammary gland female adult (33 years)
+BSS01186	Lung	lung_embryo_(101_day)		LUNG			embryonic	101	day	unknown/mixed	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO308YQF	lung embryo (101 day)
+BSS01187	Lung	lung_embryo_(112_days)		LUNG			embryonic	112	day	unknown/mixed	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO307OVZ	lung embryo (112 days)
+BSS01188	Lung	lung_embryo_(67_days)		LUNG			embryonic	67	day	unknown/mixed	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO936EIF	lung embryo (67 days)
+BSS01189	Lung	lung_embryo_(80_days)_and_male_embryo_(76_days)		LUNG			embryonic	80,76	day	male	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO647EYG,ENCDO662IIE	lung embryo (80 days) and male embryo (76 days)
+BSS01190	Lung	lung_female_adult_(30_years)		LUNG			adult	30	year	female	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO424HVB	lung female adult (30 years)
+BSS01192	Lung	lung_female_embryo_(108_days)		LUNG			embryonic	108	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO440SUR	lung female embryo (108 days)
+BSS01193	Lung	lung_female_embryo_(120_days)		LUNG			embryonic	120	day	female	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO670CKN	lung female embryo (120 days)
+BSS01195	Lung	lung_female_embryo_(76_days)		LUNG			embryonic	76	day	female	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO237NAG	lung female embryo (76 days)
+BSS01196	Lung	lung_female_embryo_(82_days)		LUNG			embryonic	82	day	female	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO058TGV	lung female embryo (82 days)
+BSS01197	Lung	lung_female_embryo_(85_days)		LUNG			embryonic	85	day	female	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO316SVQ	lung female embryo (85 days)
+BSS01198	Lung	lung_female_embryo_(96_days)		LUNG			embryonic	96	day	female	tissue	#D9D2E9	Tissue	Roadmap 2015	ENCDO370HUJ	lung female embryo (96 days)
+BSS01199	Lung	lung_male_adult_(27_years)_and_male_adult_(35_years)		LUNG			adult	27	year	male	tissue	#D9D2E9	Tissue	ENCODE (New)	NA	NA
+BSS01201	Lung	lung_male_child_(3_years)		LUNG			child	3	year	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO478OMA	lung male child (3 years)
+BSS01202	Lung	lung_male_embryo_(103_days)		LUNG			embryonic	103	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO430ZSC	lung male embryo (103 days)
+BSS01203	Lung	lung_male_embryo_(108_days)		LUNG			embryonic	108	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO177SBN	lung male embryo (108 days)
+BSS01204	Lung	lung_male_embryo_(54_days)_and_male_embryo_(58_days)		LUNG			embryonic	58,54	day	male	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO384TLP,ENCDO652XOU	lung male embryo (54 days) and male embryo (58 days)
+BSS01205	Lung	lung_male_embryo_(82_days)		LUNG			embryonic	82	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO023VAX	lung male embryo (82 days)
+BSS01206	Endothelial	lung_microvascular_endothelial_cell_female	Lung	LUNG MICROVASCULAR ENDOTHELIAL CELL			unknown/mixed	unknown		female	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO237AAA,ENCDO238AAA	lung microvascular endothelial cell female
+BSS01208	Cancer	M059J	Brain	GLIOBLASTOMA			adult	33	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACY	M059J
+BSS01209	Epithelial	mammary_epithelial_cell_female		MAMMARY EPITHELIAL CELL			unknown/mixed	unknown		female	primary cell	#FF9D0C	Primary Cell	ENCODE 2012	ENCDO343AAA	mammary epithelial cell female
+BSS01211	Epithelial	mammary_epithelial_cell_female_adult_(18_years)		MAMMARY EPITHELIAL CELL			adult	18	year	female	primary cell	#FF9D0C	Primary Cell	Roadmap 2015	ENCDO147MBH	mammary epithelial cell female adult (18 years)
+BSS01213	Epithelial	mammary_epithelial_cell_female_adult_(50_years)		MAMMARY EPITHELIAL CELL			adult	50	year	female	primary cell	#FF9D0C	Primary Cell	ENCODE 2012	ENCDO830BUW	mammary epithelial cell female adult (50 years)
+BSS01216	Other	mammary_stem_cell		MAMMARY STEM CELL			adult	33	year	female	primary cell	#999999	Other	Roadmap (New)	ENCDO819SJC	mammary stem cell
+BSS01217	Epithelial	MCF_10A		BREAST EPITHELIAL CELL			adult	36	year	female	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000AAP	MCF 10A
+BSS01223	Epithelial	MCF_10A_originated_from_MCF_10A_treated_with_1_mM_afimoxifene_for_36_hours		BREAST EPITHELIAL CELL	MCF_10A_originated_from_MCF_10A	1_mM_afimoxifene_for_36_hours	unknown/mixed			unknown/mixed	cell line	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01224	Epithelial	MCF_10A_treated_with_1_mM_tamoxifen_for_24_hours		BREAST EPITHELIAL CELL	MCF_10A	1_mM_tamoxifen_for_24_hours	adult	36	year	female	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000AAP	MCF 10A treated with 1 μM tamoxifen for 24 hours
+BSS01225	Epithelial	MCF_10A_treated_with_1_mM_tamoxifen_for_6_hours		BREAST EPITHELIAL CELL	MCF_10A	1_mM_tamoxifen_for_6_hours	adult	36	year	female	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000AAP	MCF 10A treated with 1 μM tamoxifen for 6 hours
+BSS01226	Cancer	MCF-7	Other	MAMMARY GLAND ADENOCARCINOMA			adult	69	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAE	MCF-7
+BSS01235	Cancer	MCF-7_originated_from_MCF-7	Other	MAMMARY GLAND ADENOCARCINOMA			adult	69	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAE	MCF-7 originated from MCF-7
+BSS01240	Cancer	MCF-7_treated_with_10_mM_lactate_for_24_hours	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	10_mM_lactate_for_24_hours	adult	69	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAE	MCF-7 treated with 10 mM lactate for 24 hours
+BSS01242	Cancer	MCF-7_treated_with_100_nM_17b-estradiol_for_45_minutes	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	100_nM_17b-estradiol_for_45_minutes	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01243	Cancer	MCF-7_treated_with_100_nM_estradiol_for_1_hour	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	100_nM_estradiol_for_1_hour	adult	69	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAE	MCF-7 treated with 100 nM estradiol for 1 hour
+BSS01244	Cancer	MCF-7_treated_with_CTCF_shRNA_knockdown	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	CTCF_shRNA_knockdown	adult	69	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000AAE	MCF-7 treated with CTCF shRNA knockdown
+BSS01246	Cancer	MCF-7_treated_with_serum_starved_media	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	serum_starved_media	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01247	Cancer	MCF-7_treated_with_serum_stimulated_media	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	serum_stimulated_media	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01248	Cancer	MCF-7_treated_with_vehicle	Other	MAMMARY GLAND ADENOCARCINOMA	MCF-7	vehicle	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01250	Brain	medulla_oblongata_male_adult_(78_years)_and_male_adult_(84_years)		MEDULLA OBLONGATA			adult	84,78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB,ENCDO317XRR	medulla oblongata male adult (78 years) and male adult (84 years)
+BSS01251	Cancer	medulloblastoma	Brain	MEDULLOBLASTOMA			child	2,3	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ACZ,ENCDO000ADA	medulloblastoma
+BSS01260	Mesench	mesenchymal_stem_cell_originated_from_adipose_tissue		MESENCHYMAL STEM CELL			adult	41,59,unknown	year	female	in vitro differentiated cells	#B65C73	Tissue	Roadmap 2015	ENCDO477HWZ,ENCDO535TMW,ENCDO608RNO	mesenchymal stem cell originated from adipose tissue
+BSS01261	ES-deriv	mesenchymal_stem_cell_originated_from_H1-hESC	Mesench	MESENCHYMAL STEM DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO000AAW	mesenchymal stem cell originated from H1-hESC
+BSS01263	ES-deriv	mesendoderm_originated_from_H1-hESC		MESENDODERM DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO000AAW	mesendoderm originated from H1-hESC
+BSS01264	ES-deriv	mesodermal_cell_originated_from_HUES64		MESODERMAL DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO424FTP	mesodermal cell originated from HUES64
+BSS01267	Cancer	MG63	Bone	OSTEOSARCOMA			child	14	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO987OSE	MG63
+BSS01270	Brain	midbrain_male_adult_(78_years)_and_male_adult_(84_years)		MIDBRAIN			adult	78,84	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB,ENCDO317XRR	midbrain male adult (78 years) and male adult (84 years)
+BSS01271	Brain	middle_frontal_area_46_female_adult_(75_years)		MIDDLE FRONTAL AREA			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	middle frontal area 46 female adult (75 years)
+BSS01272	Brain	middle_frontal_area_46_male_adult_(81_year)		MIDDLE FRONTAL AREA			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	middle frontal area 46 male adult (81 year)
+BSS01273	Brain	middle_frontal_gyrus_male_adult_(78_years)		MIDDLE FRONTAL GYRUS			adult	78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO317XRR	middle frontal gyrus male adult (78 years)
+BSS01274	Cancer	MM.1S	HSC & B-cell	MYELOMA			adult	42	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO697GBW	MM.1S
+BSS01279	Blood & T-cell	mononuclear_cell_male		MONONUCLEAR CELL			unknown/mixed	unknown		male	primary cell	#678C69	Immune	ENCODE (New)	ENCDO274AAA	mononuclear cell male
+BSS01282	Digestive	mucosa_of_rectum_female_adult_(50_years)		RECTUM MUCOSA			adult	50	year	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO654NKH	mucosa of rectum female adult (50 years)
+BSS01283	Digestive	mucosa_of_rectum_female_adult_(61_year)		RECTUM MUCOSA			adult	61	year	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO896AXO	mucosa of rectum female adult (61 year)
+BSS01284	Digestive	mucosa_of_stomach_male_adult_(59_years)		STOMACH MUCOSA			adult	59	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO895TFL	mucosa of stomach male adult (59 years)
+BSS01285	Sm. Muscle	muscle_layer_of_colon_female_adult_(56_years)	Digestive	COLON MUSCLE			adult	56	year	female	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO266YSK	muscle layer of colon female adult (56 years)
+BSS01286	Sm. Muscle	muscle_layer_of_colon_female_adult_(77_years)	Digestive	COLON MUSCLE			adult	77	year	female	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO731PNE	muscle layer of colon female adult (77 years)
+BSS01287	Sm. Muscle	muscle_layer_of_duodenum_male_adult_(59_years)	Digestive	DUODENUM MUSCLE			adult	59	year	male	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO858AJQ	muscle layer of duodenum male adult (59 years)
+BSS01288	Sm. Muscle	muscle_layer_of_duodenum_male_adult_(73_years)	Digestive	DUODENUM MUSCLE			adult	73	year	male	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO024FMB	muscle layer of duodenum male adult (73 years)
+BSS01289	Muscle	muscle_of_arm_embryo_(101_day)		ARM MUSCLE			embryonic	101	day	unknown/mixed	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO072LQF	muscle of arm embryo (101 day)
+BSS01290	Muscle	muscle_of_arm_female_embryo_(105_days)		ARM MUSCLE			embryonic	105	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO766MZV	muscle of arm female embryo (105 days)
+BSS01291	Muscle	muscle_of_arm_female_embryo_(115_days)		ARM MUSCLE			embryonic	115	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO594VTA	muscle of arm female embryo (115 days)
+BSS01292	Muscle	muscle_of_arm_female_embryo_(120_days)		ARM MUSCLE			embryonic	120	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO555CMC	muscle of arm female embryo (120 days)
+BSS01293	Muscle	muscle_of_arm_female_embryo_(85_days)		ARM MUSCLE			embryonic	85	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO527XLA	muscle of arm female embryo (85 days)
+BSS01294	Muscle	muscle_of_arm_female_embryo_(98_days)		ARM MUSCLE			embryonic	98	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO837QWL	muscle of arm female embryo (98 days)
+BSS01295	Muscle	muscle_of_arm_male_embryo_(101_day)		ARM MUSCLE			embryonic	101	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO148CGW	muscle of arm male embryo (101 day)
+BSS01296	Muscle	muscle_of_arm_male_embryo_(104_days)		ARM MUSCLE			embryonic	104	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO024JHT	muscle of arm male embryo (104 days)
+BSS01297	Muscle	muscle_of_arm_male_embryo_(105_days)		ARM MUSCLE			embryonic	105	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO171HMD	muscle of arm male embryo (105 days)
+BSS01298	Muscle	muscle_of_arm_male_embryo_(113_days)		ARM MUSCLE			embryonic	113	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO204QQF	muscle of arm male embryo (113 days)
+BSS01299	Muscle	muscle_of_arm_male_embryo_(115_days)		ARM MUSCLE			embryonic	115	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO999JZG	muscle of arm male embryo (115 days)
+BSS01300	Muscle	muscle_of_arm_male_embryo_(120_days)		ARM MUSCLE			embryonic	120	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO249ZDZ	muscle of arm male embryo (120 days)
+BSS01301	Muscle	muscle_of_arm_male_embryo_(127_days)		ARM MUSCLE			embryonic	127	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO859GXV	muscle of arm male embryo (127 days)
+BSS01303	Muscle	muscle_of_arm_male_embryo_(96_days)		ARM MUSCLE			embryonic	96	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO220PYT,ENCDO817EKT	muscle of arm male embryo (96 days)
+BSS01304	Muscle	muscle_of_arm_male_embryo_(97_days)		ARM MUSCLE			embryonic	97	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO576LXR,ENCDO597UXW	muscle of arm male embryo (97 days)
+BSS01305	Muscle	muscle_of_back_female_embryo_(105_days)		BACK MUSCLE			embryonic	105	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO766MZV,ENCDO863KZW	muscle of back female embryo (105 days)
+BSS01306	Muscle	muscle_of_back_female_embryo_(113_days)		BACK MUSCLE			embryonic	113	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO676JUB	muscle of back female embryo (113 days)
+BSS01307	Muscle	muscle_of_back_female_embryo_(115_days)		BACK MUSCLE			embryonic	115	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO594VTA	muscle of back female embryo (115 days)
+BSS01308	Muscle	muscle_of_back_female_embryo_(85_days)		BACK MUSCLE			embryonic	85	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO527XLA	muscle of back female embryo (85 days)
+BSS01309	Muscle	muscle_of_back_female_embryo_(98_days)		BACK MUSCLE			embryonic	98	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO837QWL	muscle of back female embryo (98 days)
+BSS01310	Muscle	muscle_of_back_male_embryo_(101_day)		BACK MUSCLE			embryonic	101	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO148CGW	muscle of back male embryo (101 day)
+BSS01311	Muscle	muscle_of_back_male_embryo_(104_days)		BACK MUSCLE			embryonic	104	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO024JHT	muscle of back male embryo (104 days)
+BSS01312	Muscle	muscle_of_back_male_embryo_(105_days)		BACK MUSCLE			embryonic	105	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO171HMD	muscle of back male embryo (105 days)
+BSS01313	Muscle	muscle_of_back_male_embryo_(108_days)		BACK MUSCLE			embryonic	108	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO119ASK	muscle of back male embryo (108 days)
+BSS01314	Muscle	muscle_of_back_male_embryo_(127_days)		BACK MUSCLE			embryonic	127	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO859GXV	muscle of back male embryo (127 days)
+BSS01315	Muscle	muscle_of_back_male_embryo_(91_day)		BACK MUSCLE			embryonic	91	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO375VTO	muscle of back male embryo (91 day)
+BSS01316	Muscle	muscle_of_back_male_embryo_(96_days)		BACK MUSCLE			embryonic	96	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO220PYT,ENCDO817EKT	muscle of back male embryo (96 days)
+BSS01317	Muscle	muscle_of_back_male_embryo_(97_days)		BACK MUSCLE			embryonic	97	day	male	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO597UXW	muscle of back male embryo (97 days)
+BSS01318	Muscle	muscle_of_leg_female_embryo_(105_days)		LEG MUSCLE			embryonic	105	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO863KZW	muscle of leg female embryo (105 days)
+BSS01319	Muscle	muscle_of_leg_female_embryo_(110_days)		LEG MUSCLE			embryonic	110	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO711IWZ	muscle of leg female embryo (110 days)
+BSS01320	Muscle	muscle_of_leg_female_embryo_(113_days)		LEG MUSCLE			embryonic	113	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO676JUB	muscle of leg female embryo (113 days)
+BSS01321	Muscle	muscle_of_leg_female_embryo_(115_days)		LEG MUSCLE			embryonic	115	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO594VTA	muscle of leg female embryo (115 days)
+BSS01322	Muscle	muscle_of_leg_female_embryo_(85_days)		LEG MUSCLE			embryonic	85	day	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO527XLA	muscle of leg female embryo (85 days)
+BSS01323	Muscle	muscle_of_leg_male_embryo_(101_day)		LEG MUSCLE			embryonic	101	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO148CGW	muscle of leg male embryo (101 day)
+BSS01324	Muscle	muscle_of_leg_male_embryo_(104_days)		LEG MUSCLE			embryonic	104	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO024JHT	muscle of leg male embryo (104 days)
+BSS01325	Muscle	muscle_of_leg_male_embryo_(105_days)		LEG MUSCLE			embryonic	105	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO171HMD	muscle of leg male embryo (105 days)
+BSS01327	Muscle	muscle_of_leg_male_embryo_(115_days)		LEG MUSCLE			embryonic	115	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO999JZG	muscle of leg male embryo (115 days)
+BSS01328	Muscle	muscle_of_leg_male_embryo_(127_days)		LEG MUSCLE			embryonic	127	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO859GXV	muscle of leg male embryo (127 days)
+BSS01329	Muscle	muscle_of_leg_male_embryo_(96_days)		LEG MUSCLE			embryonic	96	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO220PYT,ENCDO817EKT	muscle of leg male embryo (96 days)
+BSS01330	Muscle	muscle_of_leg_male_embryo_(97_days)		LEG MUSCLE			embryonic	97	day	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO576LXR,ENCDO597UXW	muscle of leg male embryo (97 days)
+BSS01331	Muscle	muscle_of_trunk_female_embryo_(113_days)		TRUNK MUSCLE			embryonic	113	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO676JUB	muscle of trunk female embryo (113 days)
+BSS01332	Muscle	muscle_of_trunk_female_embryo_(115_days)		TRUNK MUSCLE			embryonic	115	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO708NQU	muscle of trunk female embryo (115 days)
+BSS01333	Muscle	muscle_of_trunk_female_embryo_(120_days)		TRUNK MUSCLE			embryonic	120	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO555CMC	muscle of trunk female embryo (120 days)
+BSS01334	Muscle	muscle_of_trunk_female_embryo_(121_day)		TRUNK MUSCLE			embryonic	121	day	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO920LST	muscle of trunk female embryo (121 day)
+BSS01338	Myosat	myocyte_originated_from_LHCN-M2		MYOCYTE			adult	41	year	male	in vitro differentiated cells	#E67326	Tissue	ENCODE (New)	ENCDO000ACW	myocyte originated from LHCN-M2
+BSS01340	Epithelial	myoepithelial_cell_of_mammary_gland_female_adult_(33_years)		MAMMARY MYOEPITHELIAL CELL			adult	33	year	female	primary cell	#FF9D0C	Primary Cell	Roadmap 2015	ENCDO819SJC	myoepithelial cell of mammary gland female adult (33 years)
+BSS01341	Epithelial	myoepithelial_cell_of_mammary_gland_female_adult_(36_years)		MAMMARY MYOEPITHELIAL CELL			adult	36	year	female	primary cell	#FF9D0C	Primary Cell	Roadmap 2015	ENCDO261FUX	myoepithelial cell of mammary gland female adult (36 years)
+BSS01344	Myosat	myotube_originated_from_skeletal_muscle_myoblast		MYOTUBE			adult	22	year	male	in vitro differentiated cells	#E67326	Tissue	ENCODE 2012	ENCDO094AAA,ENCDO341XKY	myotube originated from skeletal muscle myoblast
+BSS01345	HSC & B-cell	naive_B_cell		B CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#55A354	Immune	ENCODE (New)	ENCDO270AAA	naive B cell
+BSS01346	Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell		NAIVE T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO173AAA,ENCDO194EHQ,ENCDO688UWB,ENCDO779YRY,ENCDO922CEJ	naive thymus-derived CD4-positive, alpha-beta T cell
+BSS01347	Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell_female_adult_(35_years)		NAIVE T CELL			adult	35	year	female	primary cell	#678C69	Immune	ENCODE (New)	ENCDO178AAA	naive thymus-derived CD4-positive, alpha-beta T cell female adult (35 years)
+BSS01348	Blood & T-cell	naive_thymus-derived_CD4-positive,_alpha-beta_T_cell_male_adult_(26_years)		NAIVE T CELL			adult	26	year	male	primary cell	#678C69	Immune	ENCODE (New)	ENCDO177AAA	naive thymus-derived CD4-positive, alpha-beta T cell male adult (26 years)
+BSS01350	Cancer	NAMALWA	HSC & B-cell	BURKITT LYMPHOMA			child	3	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO993XLR	NAMALWA
+BSS01351	Cancer	NAMALWA_treated_with_Sendai_virus_for_2_hours	HSC & B-cell	BURKITT LYMPHOMA	NAMALWA	Sendai_virus_for_2_hours	child	3	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO993XLR	NAMALWA treated with Sendai virus for 2 hours
+BSS01353	HSC & B-cell	natural_killer_cell_female_adult_(34_years)		NK CELL			adult	34	year	female	primary cell	#55A354	Immune	Roadmap (New)	ENCDO579CCQ	natural killer cell female adult (34 years)
+BSS01354	HSC & B-cell	natural_killer_cell_male_adult_(21_year)		NK CELL			adult	21	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO190HXC	natural killer cell male adult (21 year)
+BSS01355	HSC & B-cell	natural_killer_cell_male_adult_(37_years)		NK CELL			adult	37	year	male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO028NGF	natural killer cell male adult (37 years)
+BSS01356	Cancer	NB4	HSC & B-cell	ACUTE PROMYELOCYTIC LEUKEMIA			adult	23	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ADG	NB4
+BSS01359	Cancer	NCI-H226	Lung	SQUAMOUS CELL CARCINOMA			adult	unknown		male	cell line	#000000	Other	ENCODE (New)	ENCDO337XRW	NCI-H226
+BSS01360	Cancer	NCI-H460	Lung	LARGE CELL LUNG CANCER			unknown/mixed	unknown		male	cell line	#000000	Other	ENCODE (New)	ENCDO267PTG	NCI-H460
+BSS01365	Cancer	NCI-H929	HSC & B-cell	MYELOMA			adult	62	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO220OYR	NCI-H929
+BSS01366	ES-deriv	neural_cell_originated_from_H1-hESC	Brain	NEURAL DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO000AAW	neural cell originated from H1-hESC
+BSS01370	ES-deriv	neural_progenitor_cell_originated_from_H9	Brain	NEURAL PROGENITOR DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO222AAA	neural progenitor cell originated from H9
+BSS01371	ES-deriv	neural_stem_progenitor_cell_originated_from_H1-hESC	Brain	NEURAL PROGENITOR DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO000AAW	neural stem progenitor cell originated from H1-hESC
+BSS01372	ES-deriv	neural_stem_progenitor_cell_originated_from_H9	Brain	NEURAL PROGENITOR DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO222AAA	neural stem progenitor cell originated from H9
+BSS01375	ES-deriv	neuron_originated_from_H9	Brain	NEURON DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO222AAA	neuron originated from H9
+BSS01377	Neurosph	neurosphere_embryo_(15_weeks)_originated_from_ganglionic_eminence		NEUROSPHERE			embryonic	15	week	unknown/mixed	primary cell	#FFD924	Neural	Roadmap (New)	ENCDO280TXL,ENCDO594MAO	neurosphere embryo (15 weeks) originated from ganglionic eminence
+BSS01378	Neurosph	neurosphere_female_embryo_(17_weeks)_originated_from_cortex		NEUROSPHERE			embryonic	17	week	female	primary cell	#FFD924	Neural	Roadmap 2015	ENCDO030VWZ,ENCDO981EWY	neurosphere female embryo (17 weeks) originated from cortex
+BSS01379	Neurosph	neurosphere_female_embryo_(17_weeks)_originated_from_ganglionic_eminence		NEUROSPHERE			embryonic	17	week	female	primary cell	#FFD924	Neural	Roadmap 2015	ENCDO030VWZ,ENCDO981EWY	neurosphere female embryo (17 weeks) originated from ganglionic eminence
+BSS01380	HSC & B-cell	neutrophil		NEUTROPHIL			unknown/mixed	unknown		unknown/mixed	primary cell	#55A354	Immune	ENCODE (New)	ENCDO055UKA,ENCDO082FOL,ENCDO117PGW	neutrophil
+BSS01381	HSC & B-cell	neutrophil_male		NEUTROPHIL			unknown/mixed	unknown		male	primary cell	#55A354	Immune	Roadmap 2015	ENCDO978TAT	neutrophil male
+BSS01385	Epithelial	non-pigmented_ciliary_epithelial_cell	Eye	NON-PIGMENTED CILIARY EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO105AAA	non-pigmented ciliary epithelial cell
+BSS01386	Cancer	NT2_D1	Endocrine	TESTICULAR EMBRYONAL CARCINOMA			unknown/mixed	22	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ADH	NT2/D1
+BSS01388	Brain	occipital_lobe_male_adult_(84_years)		OCCIPITAL LOBE			adult	84	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB	occipital lobe male adult (84 years)
+BSS01389	Cancer	OCI-LY1	HSC & B-cell	B CELL LYMPHOMA			adult	44	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO350AAA	OCI-LY1
+BSS01390	Cancer	OCI-LY3	HSC & B-cell	B CELL LYMPHOMA			adult	52	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO355AAA	OCI-LY3
+BSS01391	Cancer	OCI-LY7	HSC & B-cell	B CELL LYMPHOMA			adult	48	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO351AAA	OCI-LY7
+BSS01392	Neurosph	olfactory_neurosphere_cell_line		OLFACTORY NEUROSPHERE			adult	66	year	female	in vitro differentiated cells	#FFD924	Neural	ENCODE (New)	ENCDO326AAA	olfactory neurosphere cell line
+BSS01393	Adipose	omental_fat_pad_female_adult_(51_year)		OMENTAL FAT PAD			adult	51	year	female	tissue	#AF5B39	Tissue	ENCODE (New)	ENCDO271OUW	omental fat pad female adult (51 year)
+BSS01394	Adipose	omental_fat_pad_female_adult_(53_years)		OMENTAL FAT PAD			adult	53	year	female	tissue	#AF5B39	Tissue	ENCODE (New)	ENCDO793LXB	omental fat pad female adult (53 years)
+BSS01395	Adipose	omental_fat_pad_male_adult_(37_years)		OMENTAL FAT PAD			adult	37	year	male	tissue	#AF5B39	Tissue	ENCODE (New)	NA	NA
+BSS01396	Adipose	omental_fat_pad_male_adult_(54_years)		OMENTAL FAT PAD			adult	54	year	male	tissue	#AF5B39	Tissue	ENCODE (New)	NA	NA
+BSS01397	Bone	osteoblast		OSTEOBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#6FB7EB	Tissue	ENCODE 2012	ENCDO271AAA,ENCDO834SRG	osteoblast
+BSS01399	Endocrine	ovary_female_adult_(30_years)	Reproductive	OVARY			adult	30	year	female	tissue	#99C1FF	Tissue	Roadmap 2015	ENCDO424HVB	ovary female adult (30 years)
+BSS01401	Endocrine	ovary_female_adult_(51_year)	Reproductive	OVARY			adult	51	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO271OUW	ovary female adult (51 year)
+BSS01402	Endocrine	ovary_female_adult_(53_years)	Reproductive	OVARY			adult	53	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO793LXB	ovary female adult (53 years)
+BSS01403	Endocrine	ovary_female_embryo	Reproductive	OVARY			embryonic	unknown		female	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO927DEI	ovary female embryo
+BSS01405	Cancer	Panc1	Pancreas	PANCREAS DUCT EPITHELIAL CARCINOMA			unknown/mixed	56	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ABB	Panc1
+BSS01406	Pancreas	pancreas_female_adult_(30_years)		PANCREAS			adult	30	year	female	tissue	#87A3E1	Tissue	Roadmap (New)	ENCDO424HVB	pancreas female adult (30 years)
+BSS01407	Pancreas	pancreas_male_adult_(34_years)		PANCREAS			adult	34	year	male	tissue	#87A3E1	Tissue	Roadmap 2015	ENCDO058AAA	pancreas male adult (34 years)
+BSS01408	Pancreas	pancreas_male_adult_(54_years)_and_male_adult_(60_years)		PANCREAS			adult	54	year	male	tissue	#87A3E1	Tissue	ENCODE (New)	NA	NA
+BSS01411	Cancer	Parathyroid_adenoma_male_adult_(62_years)	Endocrine	PARATHYROID ADENOMA			adult	62	year	male	tissue	#000000	Other	ENCODE (New)	ENCDO952UGS	Parathyroid adenoma male adult (62 years)
+BSS01412	Cancer	Parathyroid_adenoma_male_adult_(65_years)	Endocrine	PARATHYROID ADENOMA			adult	65	year	male	tissue	#000000	Other	ENCODE (New)	ENCDO371NVV	Parathyroid adenoma male adult (65 years)
+BSS01414	Cancer	PC-3	Reproductive	PROSTATE ADENOCARCINOMA			adult	62	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO349AAA	PC-3
+BSS01415	Cancer	PC-9	Lung	LUNG ADENOCARCINOMA			unknown/mixed	unknown		unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO647UHQ	PC-9
+BSS01419	Blood & T-cell	peripheral_blood_mononuclear_cell_female_adult_(28_years)		MONONUCLEAR CELL			adult	28	year	female	primary cell	#678C69	Immune	Roadmap 2015	ENCDO839WKQ	peripheral blood mononuclear cell female adult (28 years)
+BSS01420	Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(27_years)		MONONUCLEAR CELL			adult	27	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO250QGI	peripheral blood mononuclear cell male adult (27 years)
+BSS01421	Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(28_years)		MONONUCLEAR CELL			adult	28	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO273TST	peripheral blood mononuclear cell male adult (28 years)
+BSS01423	Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(32_years)		MONONUCLEAR CELL			adult	32	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO688UPE	peripheral blood mononuclear cell male adult (32 years)
+BSS01424	Blood & T-cell	peripheral_blood_mononuclear_cell_male_adult_(39_years)		MONONUCLEAR CELL			adult	39	year	male	primary cell	#678C69	Immune	Roadmap (New)	ENCDO424KSR	peripheral blood mononuclear cell male adult (39 years)
+BSS01425	Digestive	Peyer_s_patch_female_adult_(51_year)		PEYERS PATCH			unknown/mixed	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS01426	Digestive	Peyer_s_patch_female_adult_(53_years)		PEYERS PATCH			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	Peyer's patch female adult (53 years)
+BSS01427	Digestive	Peyer_s_patch_male_adult_(37_years)		PEYERS PATCH			adult	37,51	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW,ENCDO845WKR	Peyer's patch male adult (37 years)
+BSS01428	Digestive	Peyer_s_patch_male_adult_(54_years)		PEYERS PATCH			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO451RUA	Peyer's patch male adult (54 years)
+BSS01430	Placenta & EEM	placenta_embryo_(102_days)		PLACENTA			embryonic	102	day	unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO091OEF	placenta embryo (102 days)
+BSS01431	Placenta & EEM	placenta_embryo_(16_weeks)		PLACENTA			embryonic	16	week	unknown/mixed	tissue	#E10000	Tissue	Roadmap (New)	ENCDO918HJM	placenta embryo (16 weeks)
+BSS01432	Placenta & EEM	placenta_embryo_(53_days)		PLACENTA			embryonic	53	day	unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO733WDT,ENCDO870GPO	placenta embryo (53 days)
+BSS01433	Placenta & EEM	placenta_embryo_(56_days)_and_embryo_(59_days)		PLACENTA			embryonic	56,59	day	unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO041UTR,ENCDO114CJX	placenta embryo (56 days) and embryo (59 days)
+BSS01435	Placenta & EEM	placenta_female_embryo_(101_day)_and_male_embryo_(105_days)		PLACENTA			embryonic	101,105	day	unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO005BVN,ENCDO060OTP	placenta female embryo (101 day) and male embryo (105 days)
+BSS01436	Placenta & EEM	placenta_female_embryo_(105_days)		PLACENTA			embryonic	105	day	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO863KZW	placenta female embryo (105 days)
+BSS01437	Placenta & EEM	placenta_female_embryo_(108_days)		PLACENTA			embryonic	108	day	female	tissue	#E10000	Tissue	Roadmap 2015	ENCDO012PVK	placenta female embryo (108 days)
+BSS01438	Placenta & EEM	placenta_female_embryo_(113_days)		PLACENTA			embryonic	113	day	female	tissue	#E10000	Tissue	Roadmap 2015	ENCDO022PVU,ENCDO676JUB	placenta female embryo (113 days)
+BSS01440	Placenta & EEM	placenta_female_embryo_(85_days)		PLACENTA			embryonic	85	day	female	tissue	#E10000	Tissue	Roadmap 2015	ENCDO527XLA	placenta female embryo (85 days)
+BSS01441	Placenta & EEM	placenta_male_embryo_(16_weeks)		PLACENTA			embryonic	16	week	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO150YZC	placenta male embryo (16 weeks)
+BSS01443	Placenta & EEM	placenta_male_embryo_(85_days)		PLACENTA			embryonic	85	day	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO342PFI	placenta male embryo (85 days)
+BSS01444	Placenta & EEM	placenta_male_embryo_(91_day)		PLACENTA			embryonic	91	day	male	tissue	#E10000	Tissue	Roadmap 2015	ENCDO375VTO	placenta male embryo (91 day)
+BSS01446	Placenta & EEM	placental_basal_plate_female_embryo_(40_weeks)		PLACENTA			embryonic	40	week	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO651ROT	placental basal plate female embryo (40 weeks)
+BSS01448	Placenta & EEM	placental_basal_plate_male_embryo_(38_weeks)		PLACENTA			embryonic	38	week	male	tissue	#E10000	Tissue	Roadmap (New)	ENCDO974LFM	placental basal plate male embryo (38 weeks)
+BSS01451	Brain	pons_male_adult_(78_years)		PONS			adult	78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO317XRR	pons male adult (78 years)
+BSS01452	Brain	posterior_cingulate_cortex_male_adult_(20_years)		POSTERIOR CINGULATE CORTEX			adult	20	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO377OGA	posterior cingulate cortex male adult (20 years)
+BSS01456	Reproductive	prostate_gland_male_adult_(37_years)		PROSTATE GLAND			adult	37	year	male	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO845WKR	prostate gland male adult (37 years)
+BSS01457	Reproductive	prostate_gland_male_adult_(54_years)		PROSTATE GLAND			adult	54	year	male	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO451RUA	prostate gland male adult (54 years)
+BSS01459	Reproductive	prostate_male_adult_(54_years)		PROSTATE GLAND			adult	54	year	male	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO451RUA	prostate male adult (54 years)
+BSS01460	Muscle	psoas_muscle_female_adult_(30_years)		PSOAS MUSCLE			adult	30	year	female	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO424HVB	psoas muscle female adult (30 years)
+BSS01461	Muscle	psoas_muscle_male_adult_(27_years)_and_male_adult_(35_years)		PSOAS MUSCLE			adult	27,35	year	male	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO006AAA,ENCDO007AAA	psoas muscle male adult (27 years) and male adult (35 years)
+BSS01462	Muscle	psoas_muscle_male_adult_(34_years)		PSOAS MUSCLE			adult	34	year	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO058AAA	psoas muscle male adult (34 years)
+BSS01463	Muscle	psoas_muscle_male_child_(3_years)		PSOAS MUSCLE			child	3	year	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO478OMA	psoas muscle male child (3 years)
+BSS01465	Endothelial	pulmonary_artery_endothelial_cell_female	Lung	PULMONARY ARTERY ENDOTHELIAL CELL			unknown/mixed	unknown		female	primary cell	#FFCA0C	Primary Cell	ENCODE (New)	ENCDO332AAA	pulmonary artery endothelial cell female
+BSS01469	Brain	putamen_male_adult_(78_years)		PUTAMEN			adult	78	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO317XRR	putamen male adult (78 years)
+BSS01473	Lymphoblastoid	Raji		LYMPHOBLASTOID CELL LINE			unknown/mixed			unknown/mixed	cell line	#4D9C8D	Immune	ENCODE (New)	NA	NA
+BSS01474	Cancer	RCC_7860	Kidney	RENAL CELL ADENOCARCINOMA			adult	58	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO000ADK	RCC 7860
+BSS01475	Sm. Muscle	rectal_smooth_muscle_tissue_female_adult_(50_years)	Digestive	RECTUM MUSCLE			adult	50	year	female	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO026NQC	rectal smooth muscle tissue female adult (50 years)
+BSS01478	Blood & T-cell	regulatory_T_cell_female_adult_(35_years)		TREG CELL			adult	35	year	female	primary cell	#678C69	Immune	ENCODE (New)	ENCDO290AAA	regulatory T cell female adult (35 years)
+BSS01479	Blood & T-cell	regulatory_T_cell_male_adult_(28_years)		TREG CELL			adult	28	year	male	primary cell	#678C69	Immune	ENCODE (New)	ENCDO291AAA	regulatory T cell male adult (28 years)
+BSS01480	Blood & T-cell	regulatory_T_cell_originated_from_blood_cell		TREG CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap (New)	ENCDO966YSM	regulatory T cell originated from blood cell
+BSS01481	Cancer	renal_cell_carcinoma	Kidney	RENAL CELL CARCINOMA			adult	80,62	year	unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO335XPZ,ENCDO421EJG	renal cell carcinoma
+BSS01482	Kidney	renal_cortex_interstitium_female_embryo_(103_days)		RENAL CORTEX INTERSTITIUM			embryonic	103	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO380HQH	renal cortex interstitium female embryo (103 days)
+BSS01483	Kidney	renal_cortex_interstitium_female_embryo_(120_days)		RENAL CORTEX INTERSTITIUM			embryonic	120	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO555CMC	renal cortex interstitium female embryo (120 days)
+BSS01484	Kidney	renal_cortex_interstitium_female_embryo_(89_days)		RENAL CORTEX INTERSTITIUM			embryonic	89	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO076OLG	renal cortex interstitium female embryo (89 days)
+BSS01485	Kidney	renal_cortex_interstitium_female_embryo_(96_days)		RENAL CORTEX INTERSTITIUM			embryonic	96	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO613NXA,ENCDO870OBN	renal cortex interstitium female embryo (96 days)
+BSS01486	Kidney	renal_cortex_interstitium_male_embryo_(108_days)		RENAL CORTEX INTERSTITIUM			embryonic	108	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO014CNM,ENCDO132ASK	renal cortex interstitium male embryo (108 days)
+BSS01487	Kidney	renal_cortex_interstitium_male_embryo_(113_days)		RENAL CORTEX INTERSTITIUM			embryonic	113	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO608XKS	renal cortex interstitium male embryo (113 days)
+BSS01488	Kidney	renal_cortex_interstitium_male_embryo_(127_days)		RENAL CORTEX INTERSTITIUM			embryonic	127	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO859GXV	renal cortex interstitium male embryo (127 days)
+BSS01489	Kidney	renal_cortex_interstitium_male_embryo_(91_day)		RENAL CORTEX INTERSTITIUM			embryonic	91	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO375VTO	renal cortex interstitium male embryo (91 day)
+BSS01490	Kidney	renal_cortex_interstitium_male_embryo_(97_days)		RENAL CORTEX INTERSTITIUM			embryonic	97	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO576LXR	renal cortex interstitium male embryo (97 days)
+BSS01491	Epithelial	renal_cortical_epithelial_cell	Kidney	RENAL CORTICAL EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO098AAA	renal cortical epithelial cell
+BSS01493	Kidney	renal_pelvis_female_embryo_(103_days)		RENAL PELVIS			embryonic	103	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO380HQH	renal pelvis female embryo (103 days)
+BSS01494	Kidney	renal_pelvis_female_embryo_(105_days)		RENAL PELVIS			embryonic	105	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO766MZV	renal pelvis female embryo (105 days)
+BSS01495	Kidney	renal_pelvis_female_embryo_(89_days)		RENAL PELVIS			embryonic	89	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO076OLG	renal pelvis female embryo (89 days)
+BSS01496	Kidney	renal_pelvis_female_embryo_(96_days)		RENAL PELVIS			embryonic	96	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO613NXA,ENCDO870OBN	renal pelvis female embryo (96 days)
+BSS01497	Kidney	renal_pelvis_male_embryo_(108_days)		RENAL PELVIS			embryonic	108	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO014CNM	renal pelvis male embryo (108 days)
+BSS01498	Kidney	renal_pelvis_male_embryo_(113_days)		RENAL PELVIS			embryonic	113	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO608XKS	renal pelvis male embryo (113 days)
+BSS01499	Kidney	renal_pelvis_male_embryo_(127_days)		RENAL PELVIS			embryonic	127	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO859GXV	renal pelvis male embryo (127 days)
+BSS01500	Kidney	renal_pelvis_male_embryo_(91_day)		RENAL PELVIS			embryonic	91	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO375VTO	renal pelvis male embryo (91 day)
+BSS01501	Kidney	renal_pelvis_male_embryo_(97_days)		RENAL PELVIS			embryonic	97	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO576LXR	renal pelvis male embryo (97 days)
+BSS01502	Eye	retina_embryo_(125_days)_and_male_embryo_(103_days)		EYE RETINA			embryonic	125,103	day	unknown/mixed	tissue	#EAD1DC	Neural	ENCODE (New)	ENCDO225GSN,ENCDO869VTH	retina embryo (125 days) and male embryo (103 days)
+BSS01503	Eye	retina_embryo_(74_days)_and_embryo_(85_days)		EYE RETINA			embryonic	74,85	day	unknown/mixed	tissue	#EAD1DC	Neural	ENCODE (New)	ENCDO411XCR,ENCDO539WIJ	retina embryo (74 days) and embryo (85 days)
+BSS01504	Eye	retina_female_embryo_(89_days)		EYE RETINA			embryonic	89	day	female	tissue	#EAD1DC	Neural	ENCODE (New)	ENCDO685SWK	retina female embryo (89 days)
+BSS01505	Epithelial	retinal_pigment_epithelial_cell	Kidney	RETINAL EPITHELIAL CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO107AAA	retinal pigment epithelial cell
+BSS01506	Heart	right_atrium_auricular_region_female_adult_(51_year)		HEART RIGHT ATRIUM			adult	51	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO271OUW	right atrium auricular region female adult (51 year)
+BSS01507	Heart	right_atrium_auricular_region_female_adult_(53_years)		HEART RIGHT ATRIUM			adult	53	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO793LXB	right atrium auricular region female adult (53 years)
+BSS01508	Heart	right_cardiac_atrium_male_adult_(34_years)		HEART RIGHT ATRIUM			adult	34	year	male	tissue	#D56F80	Tissue	Roadmap 2015	ENCDO058AAA	right cardiac atrium male adult (34 years)
+BSS01509	Kidney	right_kidney_female_embryo_(107_days)		KIDNEY			embryonic	107	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO607LOS	right kidney female embryo (107 days)
+BSS01510	Kidney	right_kidney_female_embryo_(117_days)		KIDNEY			embryonic	117	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO453STB	right kidney female embryo (117 days)
+BSS01511	Kidney	right_kidney_female_embryo_(147_days)		KIDNEY			embryonic	147	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO863JOG	right kidney female embryo (147 days)
+BSS01512	Kidney	right_kidney_female_embryo_(87_days)		KIDNEY			embryonic	87	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO814BQX	right kidney female embryo (87 days)
+BSS01513	Kidney	right_kidney_female_embryo_(98_days)		KIDNEY			embryonic	98	day	female	tissue	#660000	Tissue	Roadmap (New)	ENCDO633IHH	right kidney female embryo (98 days)
+BSS01514	Kidney	right_kidney_male_embryo_(108_days)		KIDNEY			embryonic	108	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO119ASK	right kidney male embryo (108 days)
+BSS01515	Kidney	right_kidney_male_embryo_(115_days)		KIDNEY			embryonic	115	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO816OTW	right kidney male embryo (115 days)
+BSS01516	Kidney	right_kidney_male_embryo_(87_days)		KIDNEY			embryonic	87	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO126IGB	right kidney male embryo (87 days)
+BSS01517	Kidney	right_kidney_male_embryo_(91_day)		KIDNEY			embryonic	91	day	male	tissue	#660000	Tissue	ENCODE (New)	ENCDO245RIZ	right kidney male embryo (91 day)
+BSS01518	Kidney	right_kidney_male_embryo_(96_days)		KIDNEY			embryonic	96	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO817EKT	right kidney male embryo (96 days)
+BSS01519	Liver	right_lobe_of_liver_female_adult_(53_years)		LIVER			adult	53	year	female	tissue	#5151E7	Tissue	ENCODE (New)	ENCDO793LXB	right lobe of liver female adult (53 years)
+BSS01520	Lung	right_lung_female_embryo_(105_days)		LUNG			embryonic	105	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO766MZV	right lung female embryo (105 days)
+BSS01521	Lung	right_lung_female_embryo_(107_days)		LUNG			embryonic	107	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO607LOS	right lung female embryo (107 days)
+BSS01522	Lung	right_lung_female_embryo_(108_days)		LUNG			embryonic	108	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO012PVK	right lung female embryo (108 days)
+BSS01523	Lung	right_lung_female_embryo_(110_days)		LUNG			embryonic	110	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO087TLK	right lung female embryo (110 days)
+BSS01524	Lung	right_lung_female_embryo_(117_days)		LUNG			embryonic	117	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO453STB	right lung female embryo (117 days)
+BSS01525	Lung	right_lung_female_embryo_(91_day)		LUNG			embryonic	91	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO605ZCF	right lung female embryo (91 day)
+BSS01526	Lung	right_lung_female_embryo_(98_days)		LUNG			embryonic	98	day	female	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO837QWL	right lung female embryo (98 days)
+BSS01527	Lung	right_lung_male_embryo_(105_days)		LUNG			embryonic	105	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO171HMD	right lung male embryo (105 days)
+BSS01528	Lung	right_lung_male_embryo_(115_days)		LUNG			embryonic	115	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO816OTW	right lung male embryo (115 days)
+BSS01529	Lung	right_lung_male_embryo_(87_days)		LUNG			embryonic	87	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO126IGB	right lung male embryo (87 days)
+BSS01530	Lung	right_lung_male_embryo_(96_days)		LUNG			embryonic	96	day	male	tissue	#D9D2E9	Tissue	Roadmap (New)	ENCDO817EKT	right lung male embryo (96 days)
+BSS01531	Kidney	right_renal_cortex_interstitium_male_embryo_(105_days)		RENAL CORTEX INTERSTITIUM			embryonic	105	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO378UAU,ENCDO513BVP	right renal cortex interstitium male embryo (105 days)
+BSS01532	Kidney	right_renal_cortex_interstitium_male_embryo_(120_days)		RENAL CORTEX INTERSTITIUM			embryonic	120	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO327QNA	right renal cortex interstitium male embryo (120 days)
+BSS01533	Kidney	right_renal_pelvis_male_embryo_(105_days)		RENAL PELVIS			embryonic	105	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO171HMD,ENCDO378UAU,ENCDO513BVP	right renal pelvis male embryo (105 days)
+BSS01534	Kidney	right_renal_pelvis_male_embryo_(120_days)		RENAL PELVIS			embryonic	120	day	male	tissue	#660000	Tissue	Roadmap (New)	ENCDO327QNA	right renal pelvis male embryo (120 days)
+BSS01535	Cancer	RKO	Digestive	COLON CARCINOMA			unknown/mixed	unknown		unknown/mixed	cell line	#000000	Other	ENCODE (New)	ENCDO035MMY	RKO
+BSS01536	Cancer	RPMI-7951	Epithelial	MELANOMA			adult	18	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ADL	RPMI-7951
+BSS01537	Cancer	RPMI8226	HSC & B-cell	PLASMA CELL MYELOMA			adult	61	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO624OGB	RPMI8226
+BSS01538	Epithelial	RWPE1	Reproductive	PROSTATE EPITHELIAL CELL			adult	54	year	male	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000ADM	RWPE1
+BSS01539	Epithelial	RWPE2	Reproductive	PROSTATE EPITHELIAL CELL			adult	54	year	male	cell line	#FF9D0C	Primary Cell	ENCODE (New)	ENCDO000ADM	RWPE2
+BSS01542	Digestive	sigmoid_colon_female_adult_(51_year)		SIGMOID COLON			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW	sigmoid colon female adult (51 year)
+BSS01543	Digestive	sigmoid_colon_female_adult_(53_years)		SIGMOID COLON			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	sigmoid colon female adult (53 years)
+BSS01545	Digestive	sigmoid_colon_male_adult_(34_years)		SIGMOID COLON			adult	34	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO058AAA	sigmoid colon male adult (34 years)
+BSS01546	Digestive	sigmoid_colon_male_adult_(37_years)		SIGMOID COLON			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO845WKR	sigmoid colon male adult (37 years)
+BSS01547	Digestive	sigmoid_colon_male_adult_(54_years)		SIGMOID COLON			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO451RUA	sigmoid colon male adult (54 years)
+BSS01548	Digestive	sigmoid_colon_male_child_(3_years)		SIGMOID COLON			child	3	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO478OMA	sigmoid colon male child (3 years)
+BSS01549	Cancer	SJCRH30	Myosat	RHABDOMYOSARCOMA			child	17	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO339AAA	SJCRH30
+BSS01550	Cancer	SJSA1	Bone	OSTEOSARCOMA			adult	19	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO197NLG	SJSA1
+BSS01551	Cancer	SK-MEL-5	Epithelial	MELANOMA			adult	24	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO338AAA	SK-MEL-5
+BSS01554	Cancer	SK-N-DZ	Brain	NEUROBLASTOMA			child	2	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO340AAA	SK-N-DZ
+BSS01558	Cancer	SK-N-DZ_treated_with_dimethyl_sulfoxide_for_72_hours	Brain	NEUROBLASTOMA	SK-N-DZ	dimethyl_sulfoxide_for_72_hours	child	2	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO340AAA	SK-N-DZ treated with dimethyl sulfoxide for 72 hours
+BSS01559	Cancer	SK-N-MC	Brain	NEUROEPITHELIOMA			child	14	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ABC	SK-N-MC
+BSS01562	Cancer	SK-N-SH	Brain	NEUROBLASTOMA			child	4	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ABD	SK-N-SH
+BSS01571	Cancer	SK-N-SH_treated_with_6_mM_all-trans-retinoic_acid_for_48_hours	Brain	NEUROBLASTOMA	SK-N-SH	6_mM_all-trans-retinoic_acid_for_48_hours	child	4	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ABD	SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours
+BSS01572	Muscle	skeletal_muscle_cell		SKELETAL MUSCLE CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#C2655D	Tissue	ENCODE (New)	ENCDO094AAA	skeletal muscle cell
+BSS01573	Myosat	skeletal_muscle_myoblast		SKELETAL MUSCLE MYOBLAST			unknown/mixed	unknown		unknown/mixed	primary cell	#E67326	Tissue	ENCODE 2012	ENCDO094AAA	skeletal muscle myoblast
+BSS01574	Myosat	skeletal_muscle_myoblast_male_adult_(22_years)		SKELETAL MUSCLE MYOBLAST			adult	22	year	male	primary cell	#E67326	Tissue	ENCODE 2012	ENCDO341XKY	skeletal muscle myoblast male adult (22 years)
+BSS01576	Myosat	skeletal_muscle_satellite_cell_female_adult_originated_from_mesodermal_cell		SKELETAL MUSCLE SATELLITE CELL			adult	unknown		female	primary cell	#E67326	Tissue	Roadmap 2015	ENCDO243GQK	skeletal muscle satellite cell female adult originated from mesodermal cell
+BSS01577	Muscle	skeletal_muscle_tissue		SKELETAL MUSCLE			unknown/mixed	unknown		unknown/mixed	tissue	#C2655D	Tissue	Roadmap (New)	ENCDO654YBK	skeletal muscle tissue
+BSS01578	Muscle	skeletal_muscle_tissue_female_adult_(72_years)		SKELETAL MUSCLE			adult	72	year	female	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO357DNR	skeletal muscle tissue female adult (72 years)
+BSS01581	Muscle	skeletal_muscle_tissue_male_adult_(54_years)		SKELETAL MUSCLE			adult	54	year	male	tissue	#C2655D	Tissue	Roadmap 2015	ENCDO499UKB	skeletal muscle tissue male adult (54 years)
+BSS01583	Stromal	skin_fibroblast_male_embryo_(97_days)		SKIN FIBROBLAST			embryonic	97	day	male	primary cell	#FF720C	Primary Cell	Roadmap (New)	ENCDO576LXR,ENCDO597UXW	skin fibroblast male embryo (97 days)
+BSS01587	Epithelial	skin_of_body_female_embryo_(82_days)		SKIN OF BODY			embryonic	82	day	female	tissue	#FF9D0C	Primary Cell	Roadmap (New)	ENCDO449WOZ	skin of body female embryo (82 days)
+BSS01588	Digestive	small_intestine_female_adult_(30_years)		SMALL INTESTINE			adult	30	year	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO424HVB	small intestine female adult (30 years)
+BSS01590	Digestive	small_intestine_female_embryo_(105_days)		SMALL INTESTINE			embryonic	105	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO718LHH	small intestine female embryo (105 days)
+BSS01591	Digestive	small_intestine_female_embryo_(107_days)		SMALL INTESTINE			embryonic	107	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO607LOS	small intestine female embryo (107 days)
+BSS01592	Digestive	small_intestine_female_embryo_(108_days)		SMALL INTESTINE			embryonic	108	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO012PVK	small intestine female embryo (108 days)
+BSS01593	Digestive	small_intestine_female_embryo_(110_days)		SMALL INTESTINE			embryonic	110	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO087TLK	small intestine female embryo (110 days)
+BSS01594	Digestive	small_intestine_female_embryo_(120_days)		SMALL INTESTINE			embryonic	120	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO555CMC	small intestine female embryo (120 days)
+BSS01595	Digestive	small_intestine_female_embryo_(91_day)		SMALL INTESTINE			embryonic	91	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO605ZCF	small intestine female embryo (91 day)
+BSS01596	Digestive	small_intestine_female_embryo_(98_days)		SMALL INTESTINE			embryonic	98	day	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO328UKO	small intestine female embryo (98 days)
+BSS01597	Digestive	small_intestine_male_adult_(34_years)		SMALL INTESTINE			adult	34	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO058AAA	small intestine male adult (34 years)
+BSS01599	Digestive	small_intestine_male_child_(3_years)		SMALL INTESTINE			child	3	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO478OMA	small intestine male child (3 years)
+BSS01600	Digestive	small_intestine_male_embryo_(105_days)		SMALL INTESTINE			embryonic	105	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO171HMD	small intestine male embryo (105 days)
+BSS01601	Digestive	small_intestine_male_embryo_(108_days)		SMALL INTESTINE			embryonic	108	day	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO119ASK,ENCDO132ASK	small intestine male embryo (108 days)
+BSS01602	Digestive	small_intestine_male_embryo_(115_days)		SMALL INTESTINE			embryonic	115	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO816OTW	small intestine male embryo (115 days)
+BSS01603	Digestive	small_intestine_male_embryo_(87_days)		SMALL INTESTINE			embryonic	87	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO443KWV	small intestine male embryo (87 days)
+BSS01604	Digestive	small_intestine_male_embryo_(91_day)		SMALL INTESTINE			embryonic	91	day	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO375VTO	small intestine male embryo (91 day)
+BSS01606	Sm. Muscle	smooth_muscle_cell_of_the_brain_vasculature_female	Brain	BRAIN VASCULATURE SMOOTH MUSCLE CELL			unknown/mixed	unknown		female	primary cell	#F182BC	Tissue	ENCODE (New)	ENCDO229AAA	smooth muscle cell of the brain vasculature female
+BSS01612	ES-deriv	smooth_muscle_cell_originated_from_H9	Sm. Muscle	SMOOTH MUSCLE DERIV			embryonic	5	day	female	in vitro differentiated cells	#4178AE	Stem-like	ENCODE (New)	ENCDO222AAA	smooth muscle cell originated from H9
+BSS01613	PNS	spinal_cord_female_embryo_(108_days)		SPINAL CORD			embryonic	108	day	female	tissue	#DDB796	Neural	Roadmap (New)	ENCDO176AAI	spinal cord female embryo (108 days)
+BSS01614	PNS	spinal_cord_female_embryo_(113_days)		SPINAL CORD			embryonic	113	day	female	tissue	#DDB796	Neural	Roadmap (New)	ENCDO022PVU,ENCDO676JUB	spinal cord female embryo (113 days)
+BSS01617	PNS	spinal_cord_female_embryo_(59_days)_and_male_embryo_(72_days)		SPINAL CORD			embryonic	59,72	day	unknown/mixed	tissue	#DDB796	Neural	ENCODE (New)	ENCDO294EUZ,ENCDO300THQ	spinal cord female embryo (59 days) and male embryo (72 days)
+BSS01618	PNS	spinal_cord_female_embryo_(87_days)		SPINAL CORD			embryonic	87	day	female	tissue	#DDB796	Neural	Roadmap (New)	ENCDO814BQX	spinal cord female embryo (87 days)
+BSS01619	PNS	spinal_cord_female_embryo_(89_days)		SPINAL CORD			embryonic	89	day	female	tissue	#DDB796	Neural	Roadmap (New)	ENCDO076OLG	spinal cord female embryo (89 days)
+BSS01620	PNS	spinal_cord_male_embryo_(105_days)		SPINAL CORD			embryonic	105	day	male	tissue	#DDB796	Neural	Roadmap (New)	ENCDO171HMD	spinal cord male embryo (105 days)
+BSS01621	PNS	spinal_cord_male_embryo_(96_days)		SPINAL CORD			embryonic	96	day	male	tissue	#DDB796	Neural	Roadmap (New)	ENCDO220PYT	spinal cord male embryo (96 days)
+BSS01625	Spleen	spleen_embryo_(112_days)		SPLEEN			embryonic	112	day	unknown/mixed	tissue	#85CF66	Immune	Roadmap (New)	ENCDO307OVZ	spleen embryo (112 days)
+BSS01627	Spleen	spleen_female_adult_(20_years)_and_female_adult_(30_years)		SPLEEN			adult	20,30	year	female	tissue	#85CF66	Immune	ENCODE (New)	NA	NA
+BSS01628	Spleen	spleen_female_adult_(30_years)		SPLEEN			adult	30	year	female	tissue	#85CF66	Immune	Roadmap (New)	ENCDO424HVB	spleen female adult (30 years)
+BSS01629	Spleen	spleen_female_adult_(51_year)		SPLEEN			adult	51	year	female	tissue	#85CF66	Immune	ENCODE (New)	ENCDO271OUW	spleen female adult (51 year)
+BSS01630	Spleen	spleen_female_adult_(53_years)		SPLEEN			adult	53	year	female	tissue	#85CF66	Immune	ENCODE (New)	ENCDO793LXB	spleen female adult (53 years)
+BSS01631	Spleen	spleen_male_adult_(34_years)		SPLEEN			adult	34	year	male	tissue	#85CF66	Immune	Roadmap 2015	ENCDO058AAA	spleen male adult (34 years)
+BSS01632	Spleen	spleen_male_adult_(37_years)		SPLEEN			adult	37	year	male	tissue	#85CF66	Immune	ENCODE (New)	NA	NA
+BSS01633	Spleen	spleen_male_adult_(54_years)		SPLEEN			adult	54	year	male	tissue	#85CF66	Immune	ENCODE (New)	ENCDO451RUA	spleen male adult (54 years)
+BSS01634	Spleen	spleen_male_child_(3_years)		SPLEEN			child	3	year	male	tissue	#85CF66	Immune	Roadmap (New)	ENCDO478OMA	spleen male child (3 years)
+BSS01636	Digestive	stomach_embryo_(101_day)		STOMACH			embryonic	101	day	unknown/mixed	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO072LQF	stomach embryo (101 day)
+BSS01637	Digestive	stomach_female_adult_(30_years)		STOMACH			adult	30	year	female	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO424HVB	stomach female adult (30 years)
+BSS01638	Digestive	stomach_female_adult_(51_year)		STOMACH			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW	stomach female adult (51 year)
+BSS01639	Digestive	stomach_female_adult_(53_years)		STOMACH			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	stomach female adult (53 years)
+BSS01641	Digestive	stomach_female_embryo		STOMACH			embryonic	unknown		female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO196CPA	stomach female embryo
+BSS01642	Digestive	stomach_female_embryo_(105_days)		STOMACH			embryonic	105	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO766MZV,ENCDO863KZW	stomach female embryo (105 days)
+BSS01643	Digestive	stomach_female_embryo_(107_days)		STOMACH			embryonic	107	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO607LOS	stomach female embryo (107 days)
+BSS01644	Digestive	stomach_female_embryo_(108_days)		STOMACH			embryonic	108	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO012PVK	stomach female embryo (108 days)
+BSS01646	Digestive	stomach_female_embryo_(121_day)		STOMACH			embryonic	121	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO920LST	stomach female embryo (121 day)
+BSS01647	Digestive	stomach_female_embryo_(147_days)		STOMACH			embryonic	147	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO863JOG	stomach female embryo (147 days)
+BSS01649	Digestive	stomach_female_embryo_(96_days)		STOMACH			embryonic	96	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO188ZLA,ENCDO311CUL,ENCDO431WFV,ENCDO613NXA,ENCDO870OBN	stomach female embryo (96 days)
+BSS01650	Digestive	stomach_female_embryo_(98_days)		STOMACH			embryonic	98	day	female	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO442NQP,ENCDO837QWL	stomach female embryo (98 days)
+BSS01651	Digestive	stomach_male_adult_(34_years)		STOMACH			adult	34	year	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO058AAA	stomach male adult (34 years)
+BSS01652	Digestive	stomach_male_adult_(37_years)		STOMACH			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	NA	NA
+BSS01653	Digestive	stomach_male_adult_(54_years)		STOMACH			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO451RUA	stomach male adult (54 years)
+BSS01654	Digestive	stomach_male_child_(3_years)		STOMACH			child	3	year	male	tissue	#C58DAA	Tissue	Roadmap (New)	ENCDO478OMA	stomach male child (3 years)
+BSS01655	Digestive	stomach_male_embryo_(108_days)		STOMACH			embryonic	108	day	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO132ASK	stomach male embryo (108 days)
+BSS01656	Digestive	stomach_male_embryo_(127_days)		STOMACH			embryonic	127	day	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO859GXV	stomach male embryo (127 days)
+BSS01657	Digestive	stomach_male_embryo_(58_days)_and_male_embryo_(76_days)		STOMACH			embryonic	76,58	day	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO647EYG,ENCDO652XOU	stomach male embryo (58 days) and male embryo (76 days)
+BSS01658	Digestive	stomach_male_embryo_(91_day)		STOMACH			embryonic	91	day	male	tissue	#C58DAA	Tissue	Roadmap 2015	ENCDO375VTO	stomach male embryo (91 day)
+BSS01659	Sm. Muscle	stomach_smooth_muscle_female_adult_(84_years)	Digestive	STOMACH MUSCLE			adult	84	year	female	tissue	#F182BC	Tissue	Roadmap 2015	ENCDO724KBU	stomach smooth muscle female adult (84 years)
+BSS01660	Sm. Muscle	stomach_smooth_muscle_male_adult_(59_years)	Digestive	STOMACH MUSCLE			adult	59	year	male	tissue	#F182BC	Tissue	Roadmap (New)	ENCDO884GGM	stomach smooth muscle male adult (59 years)
+BSS01661	Stromal	stromal_cell_of_bone_marrow_male	Bone	BONE MARROW STROMAL CELL			unknown/mixed	unknown		male	primary cell	#FF720C	Primary Cell	ENCODE (New)	ENCDO000AAV	stromal cell of bone marrow male
+BSS01664	Cancer	SU-DHL-6	HSC & B-cell	B CELL LYMPHOMA			adult	43	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO353AAA	SU-DHL-6
+BSS01665	Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(25_years)		ADIPOSE TISSUE			adult	25	year	female	tissue	#AF5B39	Tissue	Roadmap 2015	ENCDO544NAV	subcutaneous abdominal adipose tissue nuclear fraction female adult (25 years)
+BSS01666	Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(41_year)		ADIPOSE TISSUE			adult	41	year	female	tissue	#AF5B39	Tissue	Roadmap 2015	ENCDO535TMW	subcutaneous abdominal adipose tissue nuclear fraction female adult (41 year)
+BSS01667	Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(49_years)		ADIPOSE TISSUE			adult	49	year	female	tissue	#AF5B39	Tissue	Roadmap 2015	ENCDO622KQK	subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)
+BSS01668	Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(59_years)		ADIPOSE TISSUE			adult	59	year	female	tissue	#AF5B39	Tissue	Roadmap 2015	ENCDO477HWZ	subcutaneous abdominal adipose tissue nuclear fraction female adult (59 years)
+BSS01669	Adipose	subcutaneous_abdominal_adipose_tissue_nuclear_fraction_female_adult_(81_year)		ADIPOSE TISSUE			adult	81	year	female	tissue	#AF5B39	Tissue	Roadmap 2015	ENCDO120UGO	subcutaneous abdominal adipose tissue nuclear fraction female adult (81 year)
+BSS01670	Adipose	subcutaneous_adipose_tissue_female_adult_(51_year)		ADIPOSE TISSUE			adult	51	year	female	tissue	#AF5B39	Tissue	ENCODE (New)	NA	NA
+BSS01671	Adipose	subcutaneous_adipose_tissue_female_adult_(53_years)		ADIPOSE TISSUE			adult	53	year	female	tissue	#AF5B39	Tissue	ENCODE (New)	ENCDO793LXB	subcutaneous adipose tissue female adult (53 years)
+BSS01675	Brain	substantia_nigra_female_adult_(75_years)		SUBSTANTIA NIGRA			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	substantia nigra female adult (75 years)
+BSS01676	Brain	substantia_nigra_male_adult_(81_year)		SUBSTANTIA NIGRA			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	substantia nigra male adult (81 year)
+BSS01677	Brain	superior_temporal_gyrus_male_adult_(84_years)		SUPERIOR TEMPORAL GYRUS			adult	84	year	male	tissue	#C5912B	Neural	ENCODE (New)	ENCDO240JUB	superior temporal gyrus male adult (84 years)
+BSS01678	Epithelial	suprapubic_skin_female_adult_(51_year)		SUPRAPUBIC SKIN			adult	51	year	female	tissue	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01679	Epithelial	suprapubic_skin_female_adult_(53_years)		SUPRAPUBIC SKIN			adult	53	year	female	tissue	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01681	Epithelial	suprapubic_skin_male_adult_(54_years)		SUPRAPUBIC SKIN			adult	54	year	male	tissue	#FF9D0C	Primary Cell	ENCODE (New)	NA	NA
+BSS01682	Cancer	SW480	Digestive	COLORECTAL ADENOCARCINOMA			adult	50	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO499CXJ	SW480
+BSS01684	Blood & T-cell	T-cell		T CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO139RPR,ENCDO269ABJ,ENCDO460ZVO,ENCDO685OXD,ENCDO727HSS	T-cell
+BSS01687	Blood & T-cell	T-cell_male_adult_(21_year)		T CELL			adult	21	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO190HXC	T-cell male adult (21 year)
+BSS01688	Blood & T-cell	T-cell_male_adult_(36_years)		T CELL			adult	36	year	male	primary cell	#678C69	Immune	Roadmap (New)	ENCDO441UHQ	T-cell male adult (36 years)
+BSS01689	Blood & T-cell	T-cell_male_adult_(37_years)		T CELL			adult	37	year	male	primary cell	#678C69	Immune	Roadmap 2015	ENCDO028NGF	T-cell male adult (37 years)
+BSS01690	Blood & T-cell	T-helper_1_cell		T1 CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	ENCODE (New)	ENCDO174AAA,ENCDO334AAA	T-helper 1 cell
+BSS01691	Blood & T-cell	T-helper_1_cell_female_adult_(26_years)		T1 CELL			adult	26	year	female	primary cell	#678C69	Immune	ENCODE (New)	ENCDO285AAA	T-helper 1 cell female adult (26 years)
+BSS01692	Blood & T-cell	T-helper_1_cell_male_adult_(33_years)		T1 CELL			adult	33	year	male	primary cell	#678C69	Immune	ENCODE (New)	ENCDO286AAA	T-helper 1 cell male adult (33 years)
+BSS01693	Blood & T-cell	T-helper_17_cell		T17 CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	ENCODE (New)	ENCDO284AAA	T-helper 17 cell
+BSS01694	Blood & T-cell	T-helper_17_cell_originated_from_blood_cell		T17 CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap (New)	ENCDO966YSM	T-helper 17 cell originated from blood cell
+BSS01695	Blood & T-cell	T-helper_17_cell_treated_with_phorbol_13-acetate_12-myristate_,_ionomycin		T17 CELL	T-helper_17_cell	phorbol_13-acetate_12-myristate_,_ionomycin	unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	Roadmap 2015	ENCDO194EHQ,ENCDO779YRY	T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin
+BSS01696	Blood & T-cell	T-helper_2_cell		T2 CELL			unknown/mixed	unknown		unknown/mixed	primary cell	#678C69	Immune	ENCODE (New)	ENCDO287AAA	T-helper 2 cell
+BSS01697	Blood & T-cell	T-helper_2_cell_female_adult_(26_years)		T2 CELL			adult	26	year	female	primary cell	#678C69	Immune	ENCODE (New)	ENCDO288AAA	T-helper 2 cell female adult (26 years)
+BSS01698	Blood & T-cell	T-helper_2_cell_male_adult_(33_years)		T2 CELL			adult	33	year	male	primary cell	#678C69	Immune	ENCODE (New)	ENCDO289AAA	T-helper 2 cell male adult (33 years)
+BSS01699	Cancer	T47D	Other	MAMMARY GLAND DUCTAL CARCINOMA			adult	54	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ABA	T47D
+BSS01702	Cancer	T47D_treated_with_0.02pct_dimethyl_sulfoxide_for_1_hour	Other	MAMMARY GLAND DUCTAL CARCINOMA	T47D	0.02pct_dimethyl_sulfoxide_for_1_hour	unknown/mixed			unknown/mixed	cell line	#000000	Other	ENCODE (New)	NA	NA
+BSS01705	Cancer	T47D_treated_with_10_nM_17b-estradiol_for_30_minutes	Other	MAMMARY GLAND DUCTAL CARCINOMA	T47D	10_nM_17b-estradiol_for_30_minutes	adult	54	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ABA	T47D treated with 10 nM 17β-estradiol for 30 minutes
+BSS01712	Brain	temporal_lobe_female_adult_(75_years)		TEMPORAL LOBE			adult	75	year	female	tissue	#C5912B	Neural	Roadmap 2015	ENCDO871IWW	temporal lobe female adult (75 years)
+BSS01714	Brain	temporal_lobe_male_adult_(81_year)		TEMPORAL LOBE			adult	81	year	male	tissue	#C5912B	Neural	Roadmap 2015	ENCDO980BZD	temporal lobe male adult (81 year)
+BSS01715	Endocrine	testis_male_adult_(37_years)	Reproductive	TESTIS			adult	37	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO845WKR	testis male adult (37 years)
+BSS01718	Endocrine	testis_male_adult_(54_years)	Reproductive	TESTIS			adult	54	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO451RUA	testis male adult (54 years)
+BSS01719	Endocrine	testis_male_embryo	Reproductive	TESTIS			embryonic	unknown		male	tissue	#99C1FF	Tissue	Roadmap (New)	ENCDO482LIM,ENCDO836UAR	testis male embryo
+BSS01814	Heart	thoracic_aorta_male_adult_(37_years)		THORACIC AORTA			adult	37	year	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO845WKR	thoracic aorta male adult (37 years)
+BSS01815	Heart	thoracic_aorta_male_adult_(54_years)		THORACIC AORTA			adult	54	year	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO451RUA	thoracic aorta male adult (54 years)
+BSS01818	Thymus	thymus_female_embryo		THYMUS			embryonic	unknown		female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO196CPA	thymus female embryo
+BSS01819	Thymus	thymus_female_embryo_(105_days)		THYMUS			embryonic	105	day	female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO718LHH	thymus female embryo (105 days)
+BSS01820	Thymus	thymus_female_embryo_(110_days)		THYMUS			embryonic	110	day	female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO711IWZ	thymus female embryo (110 days)
+BSS01821	Thymus	thymus_female_embryo_(113_days)		THYMUS			embryonic	113	day	female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO676JUB	thymus female embryo (113 days)
+BSS01823	Thymus	thymus_female_embryo_(147_days)		THYMUS			embryonic	147	day	female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO863JOG	thymus female embryo (147 days)
+BSS01824	Thymus	thymus_female_embryo_(98_days)		THYMUS			embryonic	98	day	female	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO837QWL	thymus female embryo (98 days)
+BSS01825	Thymus	thymus_male_child_(3_years)		THYMUS			child	3	year	male	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO478OMA	thymus male child (3 years)
+BSS01826	Thymus	thymus_male_embryo_(104_days)		THYMUS			embryonic	104	day	male	tissue	#DAB92E	Immune	Roadmap (New)	ENCDO024JHT	thymus male embryo (104 days)
+BSS01827	Thymus	thymus_male_embryo_(108_days)		THYMUS			embryonic	108	day	male	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO132ASK	thymus male embryo (108 days)
+BSS01828	Thymus	thymus_male_embryo_(113_days)		THYMUS			embryonic	113	day	male	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO608XKS	thymus male embryo (113 days)
+BSS01829	Thymus	thymus_male_embryo_(127_days)		THYMUS			embryonic	127	day	male	tissue	#DAB92E	Immune	Roadmap 2015	ENCDO859GXV	thymus male embryo (127 days)
+BSS01831	Endocrine	thyroid_gland_female_adult_(51_year)		THYROID GLAND			adult	51	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO271OUW	thyroid gland female adult (51 year)
+BSS01832	Endocrine	thyroid_gland_female_adult_(53_years)		THYROID GLAND			adult	53	year	female	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO793LXB	thyroid gland female adult (53 years)
+BSS01834	Endocrine	thyroid_gland_male_adult_(37_years)		THYROID GLAND			adult	37	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO845WKR	thyroid gland male adult (37 years)
+BSS01835	Endocrine	thyroid_gland_male_adult_(54_years)		THYROID GLAND			adult	54	year	male	tissue	#99C1FF	Tissue	ENCODE (New)	ENCDO451RUA	thyroid gland male adult (54 years)
+BSS01837	Heart	tibial_artery_female_adult_(53_years)		TIBIAL ARTERY			adult	53	year	female	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO793LXB	tibial artery female adult (53 years)
+BSS01838	Heart	tibial_artery_male_adult_(37_years)		TIBIAL ARTERY			adult	37	year	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO845WKR	tibial artery male adult (37 years)
+BSS01839	Heart	tibial_artery_male_adult_(54_years)		TIBIAL ARTERY			adult	54	year	male	tissue	#D56F80	Tissue	ENCODE (New)	ENCDO451RUA	tibial artery male adult (54 years)
+BSS01840	PNS	tibial_nerve_female_adult_(51_year)		TIBIAL NERVE			adult	51	year	female	tissue	#DDB796	Neural	ENCODE (New)	ENCDO271OUW	tibial nerve female adult (51 year)
+BSS01841	PNS	tibial_nerve_female_adult_(53_years)		TIBIAL NERVE			adult	53	year	female	tissue	#DDB796	Neural	ENCODE (New)	ENCDO793LXB	tibial nerve female adult (53 years)
+BSS01842	PNS	tibial_nerve_male_adult_(37_years)		TIBIAL NERVE			adult	37	year	male	tissue	#DDB796	Neural	ENCODE (New)	ENCDO845WKR	tibial nerve male adult (37 years)
+BSS01845	Muscle	tongue_female_embryo_(59_days)_and_female_embryo_(76_days)		TONGUE			embryonic	76,59	day	female	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO237NAG,ENCDO294EUZ	tongue female embryo (59 days) and female embryo (76 days)
+BSS01846	Muscle	tongue_male_embryo_(72_days)		TONGUE			embryonic	72	day	male	tissue	#C2655D	Tissue	ENCODE (New)	ENCDO300THQ	tongue male embryo (72 days)
+BSS01848	Digestive	transverse_colon_female_adult_(51_year)		TRANSVERSE COLON			adult	51	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO271OUW	transverse colon female adult (51 year)
+BSS01849	Digestive	transverse_colon_female_adult_(53_years)		TRANSVERSE COLON			adult	53	year	female	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO793LXB	transverse colon female adult (53 years)
+BSS01850	Digestive	transverse_colon_male_adult_(37_years)		TRANSVERSE COLON			adult	37	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO845WKR	transverse colon male adult (37 years)
+BSS01851	Digestive	transverse_colon_male_adult_(54_years)		TRANSVERSE COLON			adult	54	year	male	tissue	#C58DAA	Tissue	ENCODE (New)	ENCDO451RUA	transverse colon male adult (54 years)
+BSS01852	Placenta & EEM	trophoblast_cell_embryo_(17_weeks)_and_embryo_(18_weeks)		TROPHOBLAST			embryonic	18,17	week	unknown/mixed	primary cell	#E10000	Tissue	ENCODE (New)	ENCDO070KYQ,ENCDO960IHW	trophoblast cell embryo (17 weeks) and embryo (18 weeks)
+BSS01853	Placenta & EEM	trophoblast_cell_embryo_(21_week)		TROPHOBLAST			embryonic	21	week	unknown/mixed	primary cell	#E10000	Tissue	ENCODE (New)	ENCDO096FKE,ENCDO333OMW	trophoblast cell embryo (21 week)
+BSS01855	Placenta & EEM	trophoblast_cell_embryo_(23_weeks)		TROPHOBLAST			embryonic	23	week	unknown/mixed	primary cell	#E10000	Tissue	ENCODE (New)	ENCDO623MQT	trophoblast cell embryo (23 weeks)
+BSS01856	Placenta & EEM	trophoblast_cell_embryo_(39_weeks)_and_embryo_(40_weeks)		TROPHOBLAST			embryonic	40,39	week	unknown/mixed	primary cell	#E10000	Tissue	ENCODE (New)	ENCDO204REL,ENCDO671XTD	trophoblast cell embryo (39 weeks) and embryo (40 weeks)
+BSS01857	ES-deriv	trophoblast_cell_originated_from_H1-hESC	Placenta & EEM	TROPHOBLAST DERIV			embryonic	unknown		male	in vitro differentiated cells	#4178AE	Stem-like	Roadmap 2015	ENCDO000AAW	trophoblast cell originated from H1-hESC
+BSS01859	Placenta & EEM	trophoblast_female_embryo_(20_weeks)		TROPHOBLAST			embryonic	20	week	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO865QOI	trophoblast female embryo (20 weeks)
+BSS01860	Placenta & EEM	trophoblast_female_embryo_(40_weeks)		TROPHOBLAST			embryonic	40	week	female	tissue	#E10000	Tissue	Roadmap (New)	ENCDO601VUB	trophoblast female embryo (40 weeks)
+BSS01866	ESC	UCSF-4		ESC			embryonic	unknown		female	cell line	#924965	Stem-like	Roadmap 2015	ENCDO499GAU	UCSF-4
+BSS01867	Placenta & EEM	umbilical_cord_embryo_(59_days)_and_male_embryo_(76_days)		UMBILICAL CORD			embryonic	76,59	day	unknown/mixed	tissue	#E10000	Tissue	ENCODE (New)	ENCDO163CLX,ENCDO647EYG	umbilical cord embryo (59 days) and male embryo (76 days)
+BSS01869	Lung	upper_lobe_of_left_lung_female_adult_(51_year)		LUNG			adult	51	year	female	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO271OUW	upper lobe of left lung female adult (51 year)
+BSS01870	Lung	upper_lobe_of_left_lung_female_adult_(53_years)		LUNG			adult	53	year	female	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO793LXB	upper lobe of left lung female adult (53 years)
+BSS01871	Lung	upper_lobe_of_left_lung_male_adult_(37_years)		LUNG			adult	37	year	male	tissue	#D9D2E9	Tissue	ENCODE (New)	ENCDO845WKR	upper lobe of left lung male adult (37 years)
+BSS01872	Lung	upper_lobe_of_left_lung_male_adult_(54_years)		LUNG			adult	54	year	male	tissue	#D9D2E9	Tissue	ENCODE (New)	NA	NA
+BSS01876	Urinary	urinary_bladder_male_adult_(34_years)		URINARY BLADDER			adult	34	year	male	tissue	#A783D6	Tissue	Roadmap (New)	ENCDO058AAA	urinary bladder male adult (34 years)
+BSS01878	Urinary	urinary_bladder_male_embryo_(76_days)		URINARY BLADDER			embryonic	76	day	male	tissue	#A783D6	Tissue	ENCODE (New)	ENCDO647EYG	urinary bladder male embryo (76 days)
+BSS01879	Urinary	urothelium_cell_line		UROTHELIUM CELL			child	12	year	female	cell line	#A783D6	Tissue	ENCODE (New)	ENCDO000ADS	urothelium cell line
+BSS01880	Urinary	urothelium_cell_line_treated_with_UT189_for_1_hour		UROTHELIUM CELL	urothelium_cell_line	UT189_for_1_hour	child	12	year	female	cell line	#A783D6	Tissue	ENCODE (New)	ENCDO000ADS	urothelium cell line treated with UT189 for 1 hour
+BSS01883	Reproductive	uterus_female_adult_(51_year)		UTERUS			adult	51	year	female	tissue	#3383FF	Tissue	ENCODE (New)	NA	NA
+BSS01884	Reproductive	uterus_female_adult_(53_years)		UTERUS			adult	53	year	female	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO793LXB	uterus female adult (53 years)
+BSS01886	Reproductive	vagina_female_adult_(51_year)		VAGINA			adult	51	year	female	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO271OUW	vagina female adult (51 year)
+BSS01887	Reproductive	vagina_female_adult_(53_years)		VAGINA			adult	53	year	female	tissue	#3383FF	Tissue	ENCODE (New)	ENCDO793LXB	vagina female adult (53 years)
+BSS01888	Cancer	VCaP	Reproductive	PROSTATE EPITHELIAL CARCINOMA			adult	59	year	male	cell line	#000000	Other	ENCODE (New)	ENCDO119FJJ	VCaP
+BSS01890	Cancer	WERI-Rb-1	Eye	EYE RETINOBLASTOMA			child	1	year	female	cell line	#000000	Other	ENCODE (New)	ENCDO000ADT	WERI-Rb-1
+BSS01891	Stromal	WI38	Lung	LUNG FIBROBLAST			unknown/mixed	unknown		female	cell line	#FF720C	Primary Cell	ENCODE (New)	ENCDO000ADU	WI38
