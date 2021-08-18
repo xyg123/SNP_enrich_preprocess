@@ -28,6 +28,9 @@ def Liftover_pos(input_chr, input_pos, input_LO):
         return(lifted_result[0][1])
 
 def Garfield_make_pval_with_LO(input_sumstats, trait, out_path, lo_from, lo_to):
+    if not os.path.exists(out_path+trait):
+        print("{} does not exist, creating".format(out_path+trait))
+        os.mkdir(out_path+trait)
     start_time=time.time()
     lo=LiftOver(lo_from, lo_to)
     Sumstats=pd.read_parquet(input_sumstats, engine="pyarrow")
