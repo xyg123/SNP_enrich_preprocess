@@ -40,7 +40,10 @@ def test_epimap(Input_sample, meta_file):
 
 def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
     for i in range(1, 23):
-        start_time_chr=time.time()
+        start_time=time.time()
+        if not os.path.exists(out_path+"chr"+str(i)):
+            print("{} does not exist, creating".format(out_path+"chr"+str(i)))
+            os.mkdir(out_path+"chr"+str(i)+"/")
 
         Input_SNPs=pd.read_csv(input_SNP_path+"chr"+str(i), names=["BP", "MAF", "TSS"], sep=" ")
         Input_SNPs['Chrom']="chr"+str(i)
@@ -49,13 +52,15 @@ def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
         Input_SNPs['start']=Input_SNPs['BP'].astype(int)-1
         Input_SNPs=Input_SNPs[['Chrom', 'start', 'BP']]
 
-        Annot_out=Input_SNPs['BP']
+        #Annot_out=Input_SNPs['BP']
 
         SNP_bed=BedTool.from_dataframe(Input_SNPs)
         for bed_for_annot in os.listdir(bed_for_annot_dir):
-            #Annot_out=Input_SNPs['BP']
-            start_time=time.time()
+            Annot_out=Input_SNPs['BP']
+            start_time_chr=time.time()
+
             Annot_bed=BedTool(bed_for_annot_dir+bed_for_annot)
+            Annot_bed=Annot_bed.merge()
             Sample_name=bed_for_annot.split(".")[0]
 
             SNP_intersect=SNP_bed.intersect(Annot_bed)
@@ -65,12 +70,10 @@ def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
             Annot_out.fillna(0, inplace=True)
 
             Annot_out=Annot_out.astype(int)
-            print("finished chr"+str(i)+" for "+Sample_name+" in "+str(time.time()-start_time)+" seconds!")
-        #Annot_out['annotations']=Annot_out.iloc[:,1:].apply(lambda row: "".join(row.values.astype(str)), axis=1)
-        #Annot_out=Annot_out[['BP', 'annotations']]
             
-        Annot_out.to_csv(out_path+"chr"+str(i), sep=" ", index=False)
-        print("finished chr"+str(i)+" in "+str(time.time()-start_time_chr)+" seconds!")
+            Annot_out.to_csv(out_path+"chr"+str(i)+"/"+Sample_name, sep=" ", index=False)
+            print("finished chr"+str(i)+" for "+Sample_name+" in "+str(time.time()-start_time_chr)+" seconds!")
+            #print("finished chr"+str(i)+" in "+str(time.time()-start_time_chr)+" seconds!")
 
     Input_SNPs=pd.read_csv(input_SNP_path+"chrX", names=["BP", "MAF", "TSS"], sep=" ")
     Input_SNPs['Chrom']="chrX"
@@ -81,11 +84,14 @@ def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
 
     #Annot_out=Input_SNPs['BP']   
     SNP_bed=BedTool.from_dataframe(Input_SNPs)
-
+    if not os.path.exists(out_path+"chrX"):
+        print("{} does not exist, creating".format(out_path+"chrX"))
+        os.mkdir(out_path+"chrX/")
     for bed_for_annot in os.listdir(bed_for_annot_dir):
             Annot_out=Input_SNPs['BP']
-            start_time=time.time()
+            start_time_chr=time.time()
             Annot_bed=BedTool(bed_for_annot_dir+bed_for_annot)
+            Annot_bed=Annot_bed.merge()
             Sample_name=bed_for_annot.split(".")[0]
 
             SNP_intersect=SNP_bed.intersect(Annot_bed)
@@ -95,11 +101,12 @@ def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
             Annot_out.fillna(0, inplace=True)
 
             Annot_out=Annot_out.astype(int)
-            Annot_out.to_csv(out_path+"chrX_"+Sample_name, sep=" ", index=False)
-            print("finished chrX"+" for "+Sample_name+" in "+str(time.time()-start_time)+" seconds!")
+            Annot_out.to_csv(out_path+"chrX"+"/"+Sample_name, sep=" ", index=False)
+            print("finished chrX"+" for "+Sample_name+" in "+str(time.time()-start_time_chr)+" seconds!")
     
     link_file=pd.DataFrame(columns=['Index', 'Annotation', 'Celltype', 'Tissue', 'Type', 'Category'])
     count=0
+
     for bed_for_annot in os.listdir(bed_for_annot_dir):
             #Annot_out=Input_SNPs['BP']
             start_time=time.time()
@@ -108,7 +115,7 @@ def Garfield_annot_UK10K(input_SNP_path, out_path, bed_for_annot_dir):
             if(len(test_epimap(Sample_name, epimap_meta_path)) > 0):
 
                 new_entry=pd.DataFrame({'Index': count, 'Annotation': Sample_name, 'Celltype':add_GROUP(Sample_name, epimap_meta_path), 
-                'Tissue':add_infoline(Sample_name, epimap_meta_path), 'Type':"Enhancer", "Category":"Epimap"})
+                'Tissue':add_infoline(Sample_name, epimap_meta_path), 'Type':"Enhancer", "Category":"Peaks"})
 
             else:
                 new_entry=pd.DataFrame({'Index': count, 'Annotation': Sample_name, 'Celltype':"NA", 
@@ -174,7 +181,6 @@ def Garfield_annot_UK10K_line(input_SNP_path, out_path, bed_for_annot, input_chr
 def parse_args():
     parser=argparse.ArgumentParser()
     parser.add_argument('--Input_SNP_dir', metavar="<str>", type=str, required=True)
-    parser.add_argument('--Input_SNP_chr', metavar="<str>", type=str, required=True)
     parser.add_argument('--Input_bed', metavar="<str>", type=str, required=True)
     parser.add_argument('--Output_dir', metavar="<str>", type=str, required=True)
     
