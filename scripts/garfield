@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUTNAME=cd-meta 
+INPUTNAME=$1
 DATADIR=../garfield-data
 
 PRUNETAGSDIR=$DATADIR/tags/r01
