@@ -18,6 +18,8 @@ import urllib.request
 import json
 import requests
 
+import pybedtools
+
 def main():
 
     args = parse_args()
@@ -50,6 +52,25 @@ def main():
             Reg_URLs=Get_regulatory_URLs(sample_ID, Enhancer_urls, Promoter_urls)
             urllib.request.urlretrieve(Reg_URLs[0], args.outdir+sample_ID+"_enhancer.bed.gz")
             urllib.request.urlretrieve(Reg_URLs[1], args.outdir+sample_ID+"_promoter.bed.gz")
+
+            Current_enhancers=pybedtools.BedTool(args.outdir+sample_ID+"_enhancer.bed.gz")
+            Current_enhancers_pd=pd.read_table(Current_enhancers.fn)
+            Current_enhancers_pd.to_csv(args.outdir+sample_ID+"merged.bed",
+                                   mode='a', header=False, sep="\t", index=False)
+        
+            Current_promoters=pybedtools.BedTool(args.outdir+sample_ID+"_promoter.bed.gz")
+            Current_promoters_pd=pd.read_table(Current_promoters.fn)
+            Current_promoters_pd.to_csv(args.outdir+sample_ID+"merged.bed",
+                                   mode='a', header=False, sep="\t", index=False)
+        
+#   Merge the Promoter+enhancer files
+
+            Merged_bed=pybedtools.BedTool(args.outdir+sample_ID+"merged.bed")
+            Merged_bed_sorted=Merged_bed.sort()
+            Merged_bed_sorted_merged=Merged_bed_sorted.merge()
+#            Merged_bed_sorted_merged.to_csv("/home/xg1/CHEERS/epimap/regulatory_elements/Master_enhancers.bed",
+#                            header=False, sep="\t", index=False)
+            Merged_bed_sorted_merged.saveas(args.outdir+sample_ID+"_merged.sorted.bed")
 
 
 def strip_to_sample(input_url):
