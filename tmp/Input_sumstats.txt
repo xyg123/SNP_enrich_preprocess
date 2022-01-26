@@ -1,0 +1,5 @@
+gs://genetics-portal-dev-analysis/xg1/Test_sumstat_inputs/GCST002245.parquet/
+gs://genetics-portal-dev-analysis/xg1/Test_sumstat_inputs/GCST004131.parquet/
+gs://genetics-portal-dev-analysis/xg1/Test_sumstat_inputs/GCST005413.parquet/
+gs://genetics-portal-dev-analysis/xg1/Test_sumstat_inputs/GCST005536.parquet/
+gs://genetics-portal-dev-analysis/xg1/Test_sumstat_inputs/GCST005569.parquet/
