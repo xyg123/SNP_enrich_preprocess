@@ -18,3 +18,5 @@ dependencies:
   - pybedtools
   - pyBigWig
   - matplotlib
+  - google
+  - google-cloud-bigquery
