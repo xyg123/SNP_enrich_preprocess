@@ -1,11 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../Downloads/genetics-l2g-scoring"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../Downloads/genetics-l2g-scoring"
+        },
+        {
+            "path": "."
+        }
+    ]
 }

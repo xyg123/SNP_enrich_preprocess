@@ -1,6 +1,6 @@
 [config]
-Input_sumstats_GCS="gs://genetics-portal-dev-sumstats/unfiltered/gwas"
-Temp_BQ_sumstats="open-targets-genetics-dev.Jack_sumstats"
-RSID_BQ_sumstats="open-targets-genetics-dev.rsID_sumstats"
-Formatted_sumstats_GCS="gs://genetics-portal-dev-analysis/xg1/rsid_sumstats"
+Input_sumstats_GCS=gs://genetics-portal-dev-sumstats/unfiltered/gwas
+Temp_BQ_sumstats=open-targets-genetics-dev.Jack_sumstats
+RSID_BQ_sumstats=open-targets-genetics-dev.rsID_sumstats
+Formatted_sumstats_GCS=gs://genetics-portal-dev-analysis/xg1/rsid_sumstats
 
