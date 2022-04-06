@@ -10,18 +10,18 @@ import time
 import urllib.request
 import matplotlib.pyplot as plt
 
-imputed_urls_path="../configs/Imputed_urls.txt"
-observed_urls_path="../configs/Observed_urls.txt"
+imputed_urls_path="../../configs/Imputed_urls.txt"
+observed_urls_path="../../configs/Observed_urls.txt"
 
-Enhancer_urls=pd.read_csv("../configs/enhancers_urls.txt",
+Enhancer_urls=pd.read_csv("../../configs/enhancers_urls.txt",
                         header=None, names=['filename'])
-Promoter_urls=pd.read_csv("../configs/promoters_urls.txt",
+Promoter_urls=pd.read_csv("../../configs/promoters_urls.txt",
                         header=None, names=['filename'])
 
 imputed_urls=pd.read_csv(imputed_urls_path, header=None, names=['filename'])
 observed_urls=pd.read_csv(observed_urls_path, header=None, names=['filename'])
 
-epimap_meta_path="../configs/main_metadata_table.tsv"
+epimap_meta_path="../../configs/main_metadata_table.tsv"
 
 epimap_meta=pd.read_csv(epimap_meta_path, sep="\t")
 
