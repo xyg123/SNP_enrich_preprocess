@@ -2,8 +2,8 @@ channels:
   - bioconda
   - conda-forge
 dependencies:
-  - python=3
-  - snakemake
+  - python=3.7.3
+    #  - snakemake
   - pandas>=0.24
   - pypy3.5
   - plink
@@ -12,11 +12,11 @@ dependencies:
   - pyarrow>=0.15
   - requests>=2.18.0
   - parallel
-  - pyspark
+    #  - pyspark
   - httplib2  
   - crcmod
   - pybedtools
   - pyBigWig
-  - matplotlib
-  - google
-  - google-cloud-bigquery
+    # - matplotlib
+    #  - google
+    #  - google-cloud-bigquery
