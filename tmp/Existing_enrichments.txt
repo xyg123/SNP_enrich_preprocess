@@ -1,1 +1,0 @@
-gs://genetics-portal-dev-analysis/xg1/LDSC_enrichments/
