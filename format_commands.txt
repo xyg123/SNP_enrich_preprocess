@@ -1,5 +1,0 @@
-python scripts/LDSC_format_single_sumstat.py --in_config configs/test_run_config.txt --in_study GCST002245
-python scripts/LDSC_format_single_sumstat.py --in_config configs/test_run_config.txt --in_study GCST004131
-python scripts/LDSC_format_single_sumstat.py --in_config configs/test_run_config.txt --in_study GCST005413
-python scripts/LDSC_format_single_sumstat.py --in_config configs/test_run_config.txt --in_study GCST005536
-python scripts/LDSC_format_single_sumstat.py --in_config configs/test_run_config.txt --in_study GCST005569
